@@ -15,6 +15,7 @@ TABLE WITHOUT ID
 	category AS "Категория"
 FROM !"templates"
 WHERE type = "book" AND status = "wip"
+SORT category ASC
 ```
 
 ## Ожидают прочтения
@@ -28,7 +29,7 @@ TABLE WITHOUT ID
 	category AS "Категория"
 FROM !"templates"
 WHERE type = "book" AND status = "todo"
-GROUP BY category
+SORT category ASC
 ```
 
 ## Завершённые
@@ -42,5 +43,6 @@ TABLE WITHOUT ID
 	category AS "Категория"
 FROM !"templates"
 WHERE type = "book" AND status = "done"
+SORT category ASC
 ```
 

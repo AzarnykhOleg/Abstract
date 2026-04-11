@@ -1,0 +1,11 @@
+.plain-text a.internal-link {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-weight: normal !important;
+    border-bottom: none !important;
+}
+/* Убираем hover-эффекты тоже */
+.plain-text a.internal-link:hover {
+    color: inherit !important;
+    text-decoration: none !important;
+}

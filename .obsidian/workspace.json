@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books.md",
+                "file": "home/homepage.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "books"
+              "title": "homepage"
             }
           }
         ]
@@ -255,21 +255,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "home/homepage.md",
-    "books.md",
-    "books/Kali Linux библия пентестера - Гас Хаваджа.md",
+    "files/linux-for-hackers-lite_metadata.pdf",
     "books/Linux для хакеров.md",
+    "books/Kali Linux библия пентестера.md",
+    "books.md",
+    "home/homepage.md",
+    "books/Хакинг на Linux.md",
+    "files/Kali. Хакинг на LINUX.pdf",
     "templates/book template.md",
     "books/My_Book.md",
     "templates/_inbox template.md",
-    "files/linux-for-hackers-lite_metadata.pdf",
-    "files/Kali. Хакинг на LINUX.pdf",
     "templates/library_book.md",
     "files/Kali Linux. Библия пентестера (2023).pdf",
     "files/Kali Linux. Библия пентестера (2023).png",
     "files/Не подтверждено 964980.~",
     "files/Kali Linux библия пентестера - Гас Хаваджа.pdf.md",
-    "Без названия.md",
     "{{coverUrl}}.md",
     "Без названия",
     "files/Kali Linux библия пентестера - Гас Хаваджа.md",

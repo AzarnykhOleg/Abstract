@@ -19,7 +19,7 @@ tags::
 prev:: [[books|назад в библиотеку]]
 category::
 author:: {{author}}
-link:: {{ССЫЛКА НА КНИГУ}}.pdf
+link:: ../files/{{ССЫЛКА НА КНИГУ}}.pdf
 children::
 ___
 [[../files/{{ССЫЛКА НА КНИГУ}}.pdf|Читать]]

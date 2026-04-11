@@ -5,7 +5,7 @@ banner: "![[1.jpg]]"
 banner_y: 0.111
 ---
 
-# :oleg_python: <span style="color: green">Python</span>
+# :oleg_python: <span style="color: green">**Python**</span>
 - [[../Ветвление|Ветвление]]
 - Циклы 
 - Простые типы данных
@@ -23,7 +23,7 @@ banner_y: 0.111
 - Генераторы 
 
 
-# :oleg_kalilinux: <span style="color: green">Linux</span> 
+# :oleg_kalilinux: <span style="color: green">**Linux**</span> 
 - Потоки ввода-вывода данных
 - Символические и жёсткие ссылки
 - Монтирование файловых систем
@@ -31,7 +31,7 @@ banner_y: 0.111
 - Редактор VIM
 
 
-# :luc_network:    <span style="color: green">Network</span> 
+# :luc_network:    <span style="color: green">**Network**</span> 
 - #### Организация компьютерных сетей
 	- Терминология сетей
 	- Модель ISO OSI
@@ -56,15 +56,15 @@ banner_y: 0.111
 
 
 
-# :oleg_gnubash: <span style="color: green">Bash</span> 
+# :oleg_gnubash: <span style="color: green">**Bash**</span> 
 
 Новая запись
 
 
-# :oleg_hackaday: <span style="color: green">Pentest</span> 
+# :oleg_hackaday: <span style="color: green">**Pentest**</span> 
 
 
-[[files/Kali Linux. Библия пентестера (2023).pdf#page=148&selection=21,0,23,44&color=yellow|sldfgksdghfg]]
+# :luc_library:  <span style="color: green" class="plain-text"> [**Библиотека**](books.md) </span> 
 
 
 ### [Помощь по Obsidian](https://obsidian.md/ru/help/)
