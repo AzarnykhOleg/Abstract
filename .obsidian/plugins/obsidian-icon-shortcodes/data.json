@@ -1,0 +1,10 @@
+{
+  "code2emoji": true,
+  "suggester": true,
+  "disabledPacks": [
+    "zeabur"
+  ],
+  "triggerWithTrailingSpace": false,
+  "spaceAfterSC": true,
+  "isMigrated": false
+}

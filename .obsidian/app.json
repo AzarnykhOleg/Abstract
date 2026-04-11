@@ -1,0 +1,16 @@
+{
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "showLineNumber": false,
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "newFileLocation": "root",
+  "attachmentFolderPath": "files",
+  "openBehavior": "file:home/homepage",
+  "userIgnoreFilters": [
+    "files/",
+    "templates/"
+  ],
+  "propertiesInDocument": "hidden"
+}

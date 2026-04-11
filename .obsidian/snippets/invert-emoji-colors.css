@@ -1,0 +1,9 @@
+/* Тёмная тема: инвертировать (белые иконки) */
+body.theme-dark .isc-icon > *:first-child {
+  filter: invert(50%);
+}
+
+/* Светлая тема: оставить как есть (чёрные иконки) */
+body.theme-light .isc-icon > *:first-child {
+  filter: none;
+}

@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home/homepage.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "homepage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6ff9dc93ee7a9c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9408c8e996d964f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53add0a7fe06c36c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "6701b9c334e8cc76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"cssclasses\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "65072ed6c4359c6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1a4f8fb67156be35",
+    "type": "split",
+    "children": [
+      {
+        "id": "046c2427351701d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "817f2298a2e2281e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "a850d675813fcf14",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "home/homepage.md"
+              },
+              "icon": "lucide-info",
+              "title": "Свойства файла для homepage"
+            }
+          },
+          {
+            "id": "92d92bbd9908eccc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "f7bea47f1b390930",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "home/homepage.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Сноски"
+            }
+          },
+          {
+            "id": "f1aa18946f6cf3e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "home/homepage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для homepage"
+            }
+          },
+          {
+            "id": "95c07b9438ce1c72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "home/homepage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из homepage"
+            }
+          },
+          {
+            "id": "3592d37fae8e89cc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
+          },
+          {
+            "id": "70b6375c204b0c7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "home/homepage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура homepage"
+            }
+          },
+          {
+            "id": "ed5fc43fe47124f8",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Меню быстрого перехода": false,
+      "command-palette:Открыть палитру команд": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "bases:Создать новую базу": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "workspaces:Пространства": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Изучать карточки": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Ветвление.md",
+    "home/homepage.md",
+    "1.jpg",
+    "zeabur.zip",
+    "oleg.zip",
+    "templates",
+    "projects",
+    "File_2.md",
+    "home",
+    "files",
+    "File_1.md",
+    "База_2.base",
+    "База_1.base",
+    "Холст1.canvas",
+    "File_3/Анархия-5.jpg",
+    "File_3/File_3.md",
+    "2026-04-04.md",
+    "Excalidraw/Drawing 2026-04-04 12.51.18.excalidraw.md",
+    "File_3",
+    "Excalidraw",
+    "Excalidraw/Drawing 2026-04-04 12.56.56.excalidraw.md",
+    "Безkjkjwewqeяk.md",
+    "2026-04-03.md",
+    "Поездка в Париж.md",
+    "cxcbv.md",
+    "создайте ссылку.md",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas",
+    "С названием.md",
+    "2026-04-02.md",
+    "Без названия.canvas",
+    "Добро пожаловать.md"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "dashboard-ReadLineLength",
+    "dashboard",
+    "invert-emoji-colors"
+  ],
+  "nativeMenus": true
+}
