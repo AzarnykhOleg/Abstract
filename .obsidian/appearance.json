@@ -1,8 +1,10 @@
 {
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "dashboard-ReadLineLength",
+    "Minimal",
     "dashboard",
+    "dashboard-ReadLineLength",
+    "dataview-cards",
     "invert-emoji-colors"
   ],
   "nativeMenus": true

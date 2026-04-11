@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "5bad378461e6acee",
         "type": "tabs",
         "children": [
           {
-            "id": "9a2c05175f7f7300",
+            "id": "e9364978c7f3e8d4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "home/homepage.md",
-                "bFile": "home/homepage.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: homepage  (Working Tree)"
-            }
-          },
-          {
-            "id": "f1003ee7af227194",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/_inbox template.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_inbox template"
-            }
-          },
-          {
-            "id": "b60dc8e33a1094df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home/homepage.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "homepage"
-            }
-          },
-          {
-            "id": "ff5b97a8b2339ddd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/_inbox template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_inbox template"
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -150,11 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "home/homepage.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "Свойства файла для homepage"
+              "title": "Свойства файла"
             }
           },
           {
@@ -190,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +150,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для homepage"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -267,8 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5,
-    "collapsed": true
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,44 +237,55 @@
       "obsidian-spaced-repetition:Изучать карточки": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b60dc8e33a1094df",
+  "active": "53add0a7fe06c36c",
   "lastOpenFiles": [
-    "templates/_inbox template.md",
-    "Без названия.md",
+    "templates/book template.md",
+    "books/My_Book.md",
+    "books.md",
+    "files/Kali Linux. Библия пентестера (2023).pdf",
+    "books/Kali Linux библия пентестера - Гас Хаваджа.md",
+    "Читать.md",
     "home/homepage.md",
-    "1.jpg",
-    "Без названия",
+    "Программист.md",
+    "books/Department Of Defense Index of Specifications and Standards Numerical Canceled Listing (APPENDIX) Part IV November 2005.md",
+    "library.md",
+    "{{coverUrl}}.md",
+    "{{author}}.md",
     "Ветвление.md",
-    "zeabur.zip",
-    "oleg.zip",
-    "templates",
-    "projects",
+    "books/Базаров_Магама_Сети_глазами_хакера_Глазами_хакера_2025.pdf",
+    "books/Ubuntu 9 Библия пользователя - Денис Николаевич Колисниченко.md",
+    "book_notes/Linux.md",
+    "book_notes/Денис Николаевич Колисниченко.md",
+    "books/Linux От новичка к профессионалу 4 изд - Колисниченко Денис Николаевич.md",
+    "1.jpg",
+    "books/Linux_Библия_10-е издание (Для профессионалов) - 2022.pdf",
+    "books/Linux. Linux_От_новичка_к_профессионалу.pdf",
+    "books/Linux_Уорд Б. Внутреннее устройство Linux 2022.pdf",
+    "books/Linux. Bash_Карманный_справочник_системного_администратора.pdf",
+    "books/Linux. linux-bash.pdf",
+    "books/Linux. vim-cheat-sheet.pdf",
+    "Linux.md",
+    "book_notes",
+    "templates/library_book.md",
+    "books/Linux_Bash_скрипты.pdf",
+    "Денис Николаевич Колисниченко.md",
+    "templates/_inbox template.md",
+    "books/Этичный хакинг Практическое руководство по взлому - Дэниел Г Грэм.md",
+    "Гас Хаваджа.md",
+    "{{}}.md",
     "File_2.md",
-    "home",
-    "files",
     "File_1.md",
-    "База_2.base",
-    "База_1.base",
     "Холст1.canvas",
     "File_3/Анархия-5.jpg",
-    "File_3/File_3.md",
-    "2026-04-04.md",
-    "Excalidraw/Drawing 2026-04-04 12.51.18.excalidraw.md",
-    "File_3",
-    "Excalidraw/Drawing 2026-04-04 12.56.56.excalidraw.md",
-    "Безkjkjwewqeяk.md",
-    "2026-04-03.md",
-    "Поездка в Париж.md",
-    "cxcbv.md",
-    "создайте ссылку.md",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
-    "С названием.md",
-    "2026-04-02.md",
-    "Без названия.canvas",
-    "Добро пожаловать.md"
+    "Без названия.canvas"
   ]
 }

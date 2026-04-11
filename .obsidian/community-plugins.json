@@ -15,5 +15,9 @@
   "obsidian-git",
   "templater-obsidian",
   "note-refactor-obsidian",
-  "obsidian-auto-link-title"
+  "obsidian-auto-link-title",
+  "dataview",
+  "obsidian-book-search-plugin",
+  "pdf-plus",
+  "obsidian-meta-bind-plugin"
 ]

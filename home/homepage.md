@@ -67,6 +67,5 @@ banner_y: 0.111
 
 
 
-
 ### [Помощь по Obsidian](https://obsidian.md/ru/help/)
 
