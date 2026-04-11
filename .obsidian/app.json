@@ -12,5 +12,6 @@
     "files/",
     "templates/"
   ],
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "useMarkdownLinks": true
 }

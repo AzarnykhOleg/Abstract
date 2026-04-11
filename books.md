@@ -43,3 +43,4 @@ TABLE WITHOUT ID
 FROM !"templates"
 WHERE type = "book" AND status = "done"
 ```
+

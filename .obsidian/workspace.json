@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/My_Book.md",
-                "mode": "source",
-                "source": true
+                "file": "books.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "My_Book"
+              "title": "books"
             }
           }
         ]
@@ -255,13 +255,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "files/Kali Linux. Библия пентестера (2023).pdf",
+    "home/homepage.md",
     "books/My_Book.md",
+    "files/Kali Linux. Библия пентестера (2023).pdf",
+    "files/Kali Linux. Библия пентестера (2023).png",
+    "files/Не подтверждено 964980.~",
+    "books/Без названия.md",
+    "books.md",
     "books/Kali Linux библия пентестера - Гас Хаваджа.md",
     "files/Kali Linux библия пентестера - Гас Хаваджа.pdf.md",
-    "books.md",
-    "home/homepage.md",
-    "books/Без названия.md",
     "Без названия.md",
     "{{coverUrl}}.md",
     "Без названия",
@@ -286,7 +288,6 @@
     "books/Linux_Уорд Б. Внутреннее устройство Linux 2022.pdf",
     "books/Linux. Bash_Карманный_справочник_системного_администратора.pdf",
     "books/Linux. linux-bash.pdf",
-    "books/Linux. vim-cheat-sheet.pdf",
     "Linux.md",
     "templates/library_book.md",
     "Денис Николаевич Колисниченко.md",
