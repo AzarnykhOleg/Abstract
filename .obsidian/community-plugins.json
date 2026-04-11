@@ -20,5 +20,6 @@
   "obsidian-book-search-plugin",
   "obsidian-meta-bind-plugin",
   "media-extended",
-  "pdf-plus"
+  "pdf-plus",
+  "external-file-embed-and-link"
 ]
