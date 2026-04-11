@@ -64,7 +64,7 @@ banner_y: 0.111
 # :oleg_hackaday: <span style="color: green">Pentest</span> 
 
 
-
+[[files/Kali Linux. Библия пентестера (2023).pdf#page=148&selection=21,0,23,44&color=yellow|sldfgksdghfg]]
 
 
 ### [Помощь по Obsidian](https://obsidian.md/ru/help/)

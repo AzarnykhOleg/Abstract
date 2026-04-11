@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5bad378461e6acee",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "e9364978c7f3e8d4",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "pdf",
+              "state": {
+                "file": "files/linux-for-hackers-lite_metadata.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 846,
+                "zoom": 1.8357832843343134
+              },
+              "icon": "lucide-file-text",
+              "title": "linux-for-hackers-lite_metadata"
             }
           }
         ]
@@ -103,9 +109,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "home/homepage.md"
+              },
               "icon": "lucide-info",
-              "title": "Свойства файла"
+              "title": "Свойства файла для homepage"
             }
           },
           {
@@ -141,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "home/homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +159,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для homepage"
             }
           },
           {
@@ -213,11 +222,12 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 392.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,19 +254,21 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f808212962e57957",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "home/homepage.md",
+    "files/Kali Linux. Библия пентестера (2023).pdf",
+    "books/Без названия.md",
+    "books.md",
+    "books/My_Book.md",
+    "Без названия.md",
+    "{{coverUrl}}.md",
+    "books/Department Of Defense Index of Specifications and Standards Numerical Canceled Listing (APPENDIX) Part IV November 2005.md",
+    "books/Kali Linux библия пентестера - Гас Хаваджа.md",
     "library.md",
     "templates/book template.md",
-    "books/My_Book.md",
-    "books.md",
-    "files/Kali Linux. Библия пентестера (2023).pdf",
-    "books/Kali Linux библия пентестера - Гас Хаваджа.md",
     "Читать.md",
-    "home/homepage.md",
     "Программист.md",
-    "books/Department Of Defense Index of Specifications and Standards Numerical Canceled Listing (APPENDIX) Part IV November 2005.md",
-    "{{coverUrl}}.md",
     "{{author}}.md",
     "Ветвление.md",
     "books/Базаров_Магама_Сети_глазами_хакера_Глазами_хакера_2025.pdf",
@@ -280,8 +292,6 @@
     "books/Этичный хакинг Практическое руководство по взлому - Дэниел Г Грэм.md",
     "Гас Хаваджа.md",
     "{{}}.md",
-    "File_2.md",
-    "File_1.md",
     "Холст1.canvas",
     "File_3/Анархия-5.jpg",
     "Без названия 2.canvas",
