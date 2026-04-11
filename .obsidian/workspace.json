@@ -8,20 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "9a2c05175f7f7300",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "home/homepage.md",
+                "bFile": "home/homepage.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: homepage  (Working Tree)"
+            }
+          },
+          {
+            "id": "f1003ee7af227194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/_inbox template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_inbox template"
+            }
+          },
+          {
+            "id": "b60dc8e33a1094df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "home/homepage.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "homepage"
             }
+          },
+          {
+            "id": "ff5b97a8b2339ddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/_inbox template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_inbox template"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,7 +267,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 392.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,14 +287,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-spaced-repetition:Изучать карточки": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b60dc8e33a1094df",
   "lastOpenFiles": [
-    "Ветвление.md",
+    "templates/_inbox template.md",
+    "Без названия.md",
     "home/homepage.md",
     "1.jpg",
+    "Без названия",
+    "Ветвление.md",
     "zeabur.zip",
     "oleg.zip",
     "templates",
@@ -267,7 +315,6 @@
     "2026-04-04.md",
     "Excalidraw/Drawing 2026-04-04 12.51.18.excalidraw.md",
     "File_3",
-    "Excalidraw",
     "Excalidraw/Drawing 2026-04-04 12.56.56.excalidraw.md",
     "Безkjkjwewqeяk.md",
     "2026-04-03.md",

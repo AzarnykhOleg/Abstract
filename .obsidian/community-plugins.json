@@ -12,5 +12,8 @@
   "highlightr-plugin",
   "code-styler",
   "obsidian-icon-shortcodes",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian",
+  "note-refactor-obsidian",
+  "obsidian-auto-link-title"
 ]
