@@ -15,6 +15,6 @@ category:: Linux
 author:: [[../files/Kali Linux. Библия пентестера (2023).pdf|books]]
 children::
 ___
-[[../files/Kali Linux. Библия пентестера (2023).pdf|Read]]
-![cover|150](http://books.google.com/books/content?id=5FsSEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![[../files/Kali Linux. Библия пентестера (2023).pdf#page=1|250]]
+
 ___

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books.md",
-                "mode": "preview",
-                "source": false
+                "file": "books/My_Book.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "books"
+              "title": "My_Book"
             }
           }
         ]
@@ -247,22 +247,25 @@
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "media-extended:Open external media": false
+      "media-extended:Open external media": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "files/Kali Linux. Библия пентестера (2023).pdf",
+    "books/My_Book.md",
+    "books/Kali Linux библия пентестера - Гас Хаваджа.md",
+    "files/Kali Linux библия пентестера - Гас Хаваджа.pdf.md",
+    "books.md",
     "home/homepage.md",
     "books/Без названия.md",
-    "files/Kali Linux. Библия пентестера (2023).pdf",
     "Без названия.md",
     "{{coverUrl}}.md",
     "Без названия",
-    "books/My_Book.md",
     "templates/book template.md",
-    "books/Kali Linux библия пентестера - Гас Хаваджа.md",
-    "books.md",
-    "files/Kali Linux библия пентестера - Гас Хаваджа.pdf.md",
     "files/Kali Linux библия пентестера - Гас Хаваджа.md",
     "Ветвление.md",
     "Гас Хаваджа.md",
