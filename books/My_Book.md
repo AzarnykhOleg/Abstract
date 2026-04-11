@@ -16,16 +16,6 @@ author:: [[../files/Kali Linux. Библия пентестера (2023).pdf|boo
 children::
 ___
 
-
-[[../files/Kali Linux. Библия пентестера (2023).pdf|![[../files/Kali Linux. Библия пентестера (2023).png|80]]]]
-
-
-![[../files/Kali Linux. Библия пентестера (2023).png|80]](../files/Kali Linux. Библия пентестера (2023).pdf)
-
-
+![[../files/Kali Linux. Библия пентестера (2023).pdf#page=1]]
 ___
-```EmbedRelativeTo
-home:../files/Kali Linux. Библия пентестера (2023).pdf#page=1&height=80
-````
 
-![[../files/Kali Linux. Библия пентестера (2023).pdf#page=1&height=80]]

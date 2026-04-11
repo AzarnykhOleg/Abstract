@@ -5,7 +5,8 @@
     "dashboard",
     "dashboard-ReadLineLength",
     "dataview-cards",
-    "invert-emoji-colors"
+    "invert-emoji-colors",
+    "pdf-thumbnail"
   ],
   "nativeMenus": true
 }

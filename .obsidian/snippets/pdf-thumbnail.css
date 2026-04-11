@@ -1,0 +1,9 @@
+/* Уменьшает размер встроенных PDF до миниатюры */
+.pdf-embed {
+    max-height: 200px !important;
+    width: auto; !important;
+}
+.pdf-embed iframe,
+.pdf-embed .pdf-container {
+    height: 100px !important;
+}

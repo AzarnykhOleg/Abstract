@@ -13,15 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books.md",
-                "mode": "preview",
-                "source": false
+                "file": "books/Kali Linux библия пентестера - Гас Хаваджа.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "books"
+              "title": "Kali Linux библия пентестера - Гас Хаваджа"
+            }
+          },
+          {
+            "id": "4248afcf3c72bf24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/Без названия.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
+            }
+          },
+          {
+            "id": "e6a6eff55110f318",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "files/linux-for-hackers-lite_metadata.pdf",
+                "page": 9,
+                "left": -9,
+                "top": 194,
+                "zoom": 1.641747165056699
+              },
+              "icon": "lucide-file-text",
+              "title": "linux-for-hackers-lite_metadata"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,21 +284,24 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e6a6eff55110f318",
   "lastOpenFiles": [
-    "home/homepage.md",
-    "books/My_Book.md",
+    "books/Без названия.md",
+    "files/Kali. Хакинг на LINUX.pdf",
+    "templates/book template.md",
+    "templates/library_book.md",
+    "templates/_inbox template.md",
+    "books/Kali Linux библия пентестера - Гас Хаваджа.md",
     "books.md",
+    "books/My_Book.md",
+    "home/homepage.md",
     "files/Kali Linux. Библия пентестера (2023).pdf",
     "files/Kali Linux. Библия пентестера (2023).png",
     "files/Не подтверждено 964980.~",
-    "books/Без названия.md",
-    "books/Kali Linux библия пентестера - Гас Хаваджа.md",
     "files/Kali Linux библия пентестера - Гас Хаваджа.pdf.md",
     "Без названия.md",
     "{{coverUrl}}.md",
     "Без названия",
-    "templates/book template.md",
     "files/Kali Linux библия пентестера - Гас Хаваджа.md",
     "Ветвление.md",
     "Гас Хаваджа.md",
@@ -287,11 +321,8 @@
     "books/Linux. Linux_От_новичка_к_профессионалу.pdf",
     "books/Linux_Уорд Б. Внутреннее устройство Linux 2022.pdf",
     "books/Linux. Bash_Карманный_справочник_системного_администратора.pdf",
-    "books/Linux. linux-bash.pdf",
     "Linux.md",
-    "templates/library_book.md",
     "Денис Николаевич Колисниченко.md",
-    "templates/_inbox template.md",
     "Холст1.canvas",
     "File_3/Анархия-5.jpg",
     "Без названия 2.canvas",
