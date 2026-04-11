@@ -11,16 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "files/linux-for-hackers-lite_metadata.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 846,
-                "zoom": 1.8357832843343134
+                "file": "books.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "linux-for-hackers-lite_metadata"
+              "icon": "lucide-file",
+              "title": "books"
             }
           }
         ]
@@ -55,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"cssclasses\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 353.51103591918945
   },
   "right": {
     "id": "1a4f8fb67156be35",
@@ -110,10 +108,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "home/homepage.md"
+                "file": "books/Без названия.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для homepage"
+              "title": "Свойства файла для Без названия"
             }
           },
           {
@@ -137,7 +135,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "home/homepage.md"
+                "file": "books/Без названия.md"
               },
               "icon": "lucide-file-signature",
               "title": "Сноски"
@@ -149,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/homepage.md",
+                "file": "books/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +157,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для homepage"
+              "title": "Обратные ссылки для Без названия"
             }
           },
           {
@@ -168,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/homepage.md",
+                "file": "books/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из homepage"
+              "title": "Исходящие ссылки из Без названия"
             }
           },
           {
@@ -192,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md",
+                "file": "books/Без названия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура homepage"
+              "title": "Структура Без названия"
             }
           },
           {
@@ -226,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5,
+    "width": 476.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -249,28 +247,31 @@
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "media-extended:Open external media": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "home/homepage.md",
-    "files/Kali Linux. Библия пентестера (2023).pdf",
     "books/Без названия.md",
-    "books.md",
-    "books/My_Book.md",
+    "files/Kali Linux. Библия пентестера (2023).pdf",
     "Без названия.md",
     "{{coverUrl}}.md",
-    "books/Department Of Defense Index of Specifications and Standards Numerical Canceled Listing (APPENDIX) Part IV November 2005.md",
-    "books/Kali Linux библия пентестера - Гас Хаваджа.md",
-    "library.md",
+    "Без названия",
+    "books/My_Book.md",
     "templates/book template.md",
+    "books/Kali Linux библия пентестера - Гас Хаваджа.md",
+    "books.md",
+    "files/Kali Linux библия пентестера - Гас Хаваджа.pdf.md",
+    "files/Kali Linux библия пентестера - Гас Хаваджа.md",
+    "Ветвление.md",
+    "Гас Хаваджа.md",
+    "files/linux-for-hackers-lite_metadata.pdf",
+    "books/Department Of Defense Index of Specifications and Standards Numerical Canceled Listing (APPENDIX) Part IV November 2005.md",
+    "library.md",
     "Читать.md",
     "Программист.md",
     "{{author}}.md",
-    "Ветвление.md",
     "books/Базаров_Магама_Сети_глазами_хакера_Глазами_хакера_2025.pdf",
     "books/Ubuntu 9 Библия пользователя - Денис Николаевич Колисниченко.md",
     "book_notes/Linux.md",
@@ -284,14 +285,9 @@
     "books/Linux. linux-bash.pdf",
     "books/Linux. vim-cheat-sheet.pdf",
     "Linux.md",
-    "book_notes",
     "templates/library_book.md",
-    "books/Linux_Bash_скрипты.pdf",
     "Денис Николаевич Колисниченко.md",
     "templates/_inbox template.md",
-    "books/Этичный хакинг Практическое руководство по взлому - Дэниел Г Грэм.md",
-    "Гас Хаваджа.md",
-    "{{}}.md",
     "Холст1.canvas",
     "File_3/Анархия-5.jpg",
     "Без названия 2.canvas",

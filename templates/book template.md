@@ -18,10 +18,10 @@ ___
 tags:: 
 prev:: [[books|назад в библиотеку]]
 category::
-author:: [[{{author}}]]
+author:: {{author}}
 children::
 ___
-PDF
+[[../files/{{ССЫЛКА НА КНИГУ}}.pdf|Читать]]
 ![cover|150]({{coverUrl}})
 ___
 
