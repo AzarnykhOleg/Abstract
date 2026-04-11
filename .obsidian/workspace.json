@@ -13,46 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Kali Linux библия пентестера - Гас Хаваджа.md",
-                "mode": "source",
-                "source": true
+                "file": "books.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Kali Linux библия пентестера - Гас Хаваджа"
-            }
-          },
-          {
-            "id": "4248afcf3c72bf24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books/Без названия.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Без названия"
-            }
-          },
-          {
-            "id": "e6a6eff55110f318",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "files/linux-for-hackers-lite_metadata.pdf",
-                "page": 9,
-                "left": -9,
-                "top": 194,
-                "zoom": 1.641747165056699
-              },
-              "icon": "lucide-file-text",
-              "title": "linux-for-hackers-lite_metadata"
+              "title": "books"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -284,17 +253,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e6a6eff55110f318",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "books/Без названия.md",
-    "files/Kali. Хакинг на LINUX.pdf",
-    "templates/book template.md",
-    "templates/library_book.md",
-    "templates/_inbox template.md",
-    "books/Kali Linux библия пентестера - Гас Хаваджа.md",
-    "books.md",
-    "books/My_Book.md",
     "home/homepage.md",
+    "books.md",
+    "books/Kali Linux библия пентестера - Гас Хаваджа.md",
+    "books/Linux для хакеров.md",
+    "templates/book template.md",
+    "books/My_Book.md",
+    "templates/_inbox template.md",
+    "files/linux-for-hackers-lite_metadata.pdf",
+    "files/Kali. Хакинг на LINUX.pdf",
+    "templates/library_book.md",
     "files/Kali Linux. Библия пентестера (2023).pdf",
     "files/Kali Linux. Библия пентестера (2023).png",
     "files/Не подтверждено 964980.~",
@@ -305,7 +275,6 @@
     "files/Kali Linux библия пентестера - Гас Хаваджа.md",
     "Ветвление.md",
     "Гас Хаваджа.md",
-    "files/linux-for-hackers-lite_metadata.pdf",
     "books/Department Of Defense Index of Specifications and Standards Numerical Canceled Listing (APPENDIX) Part IV November 2005.md",
     "library.md",
     "Читать.md",

@@ -11,7 +11,7 @@ TABLE WITHOUT ID
 	("![|80](" + cover + ")") as "Обложка",	
 	file.link AS "Название",
 	author AS "Автор(ы)",	
-	start AS "Начал",	
+	link AS "Открыть",	
 	category AS "Категория"
 FROM !"templates"
 WHERE type = "book" AND status = "wip"
@@ -22,12 +22,13 @@ WHERE type = "book" AND status = "wip"
 ```dataview
 TABLE WITHOUT ID	
 	("![|80](" + cover + ")") as "Обложка",	
-	file.link AS "Название",	
-	author as "Автор(ы)",	
-	recommendedby AS "Рекомендовано",	
+	file.link AS "Название",
+	author AS "Автор(ы)",	
+	link AS "Открыть",	
 	category AS "Категория"
 FROM !"templates"
 WHERE type = "book" AND status = "todo"
+GROUP BY category
 ```
 
 ## Завершённые
@@ -35,10 +36,9 @@ WHERE type = "book" AND status = "todo"
 ```dataview
 TABLE WITHOUT ID	
 	("![|80](" + cover + ")") as "Обложка",	
-	file.link AS "Название",	
+	file.link AS "Название",
 	author AS "Автор(ы)",	
-	start AS "Начал",	
-	end AS "Закончил",	
+	link AS "Открыть",	
 	category AS "Категория"
 FROM !"templates"
 WHERE type = "book" AND status = "done"

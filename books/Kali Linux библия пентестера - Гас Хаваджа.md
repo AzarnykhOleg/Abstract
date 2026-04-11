@@ -13,6 +13,7 @@ tags:: Pentest
 prev:: [[books|назад в библиотеку]]
 category:: Linux
 author:: [[Гас Хаваджа]]
+link:: [[../files/Kali Linux. Библия пентестера (2023).pdf|Читать]]
 children::
 ___
 [[../files/Kali Linux. Библия пентестера (2023).pdf|Читать]]
