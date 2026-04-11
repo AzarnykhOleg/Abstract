@@ -61,11 +61,20 @@ banner_y: 0.111
 Новая запись
 
 
+
 # :oleg_hackaday: <span style="color: green">**Pentest**</span> 
+
 
 
 # :luc_library:  <span style="color: green" class="plain-text"> [**Библиотека**](books.md) </span> 
 
 
-### [Помощь по Obsidian](https://obsidian.md/ru/help/)
+# 🔗 <span style="color: green">**Полезные ссылки**</span> 
 
+#### Курсы
+[Профессия "Белый хакер" (cyber-ed)](https://learn.cyber-ed.ru/course/view.php?id=439)
+[Комплексная настройка безопасности и анонимности (cyberyozh)](https://book.cyberyozh.com/ru/vstuplenie/kurs-kompleksnaya-nastrojka-bezopasnosti-i-anonimnosti)
+[Специалист по кибербезопасности (cyberyozh)](https://edu.cyberyozh.com/courses/course-specialist-po-kiberbezopasnosti-s-nulya-dlya-jun/lesson)
+[Proxy для анонимности (cyberyozh)](https://edu.cyberyozh.com/courses/course-proxy-dlya-anonimnosti/lesson)
+[Администрирование Линукс](https://www.youtube.com/watch?v=5UJtJMTKZNg&list=PLYl91BhaOf-kkXWweBzgOw555he6S7SUs)
+[Компьютерные сети (Созыкин)](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4ojPWFLuUz6g8c73Ta45bUN8)

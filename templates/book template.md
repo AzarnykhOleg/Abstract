@@ -8,7 +8,7 @@ await tp.file.rename(title)
 type: book
 aliases: 
 - "& <%* tR += title %>"
-cover: {{coverUrl}}
+cover: ССЫЛКА НА ОБЛОЖКУ
 start:
 end:
 status: todo 
@@ -18,12 +18,11 @@ ___
 tags:: 
 prev:: [[books|назад в библиотеку]]
 category::
-author:: {{author}}
-link:: ../files/{{ССЫЛКА НА КНИГУ}}.pdf
+author:: Неизвестный
+link:: [[../files/ССЫЛКА НА КНИГУ.pdf|Читать]]
 children::
 ___
-[[../files/{{ССЫЛКА НА КНИГУ}}.pdf|Читать]]
-![cover|150]({{coverUrl}})
+![cover|150](coverUrl)
 ___
 
 <% tp.file.cursor(0) %>

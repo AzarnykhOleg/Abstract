@@ -16,7 +16,6 @@ author:: Колисниченко Д.Н.
 link:: [[../files/Хакинг на Linux.pdf|Читать]]
 children::
 ___
-[[../files/Хакинг на Linux.pdf|Читать]]
 ![cover|150](https://avatars.mds.yandex.net/get-mpic/17406069/2a0000019c0264add79dfc42e7933b0d171b/orig)
 ___
 

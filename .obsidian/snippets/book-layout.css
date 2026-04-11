@@ -1,0 +1,19 @@
+.book-page .markdown-preview-sizer {
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 20px;
+align-items: start;
+}
+
+.book-page .metadata-container {
+grid-column: 1;
+}
+
+.book-page p:has(img) {
+grid-column: 2;
+margin: 0;
+}
+
+.book-page .markdown-preview-sizer > div:not(.metadata-container):not(p:has(img)) {
+grid-column: 1 / -1;
+}

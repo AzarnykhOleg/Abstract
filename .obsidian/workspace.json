@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
+                "file": "books/Linux для хакеров.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "Linux для хакеров"
             }
           }
         ]
@@ -255,14 +255,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "files/linux-for-hackers-lite_metadata.pdf",
+    "home/homepage.md",
     "books/Linux для хакеров.md",
     "books/Kali Linux библия пентестера.md",
-    "books.md",
-    "home/homepage.md",
     "books/Хакинг на Linux.md",
-    "files/Kali. Хакинг на LINUX.pdf",
+    "files/Хакинг на LINUX.pdf",
+    "files/Linux для хакеров.pdf",
+    "coverUrl.md",
     "templates/book template.md",
+    "books.md",
     "books/My_Book.md",
     "templates/_inbox template.md",
     "templates/library_book.md",
@@ -291,7 +292,6 @@
     "books/Linux_Уорд Б. Внутреннее устройство Linux 2022.pdf",
     "books/Linux. Bash_Карманный_справочник_системного_администратора.pdf",
     "Linux.md",
-    "Денис Николаевич Колисниченко.md",
     "Холст1.canvas",
     "File_3/Анархия-5.jpg",
     "Без названия 2.canvas",
