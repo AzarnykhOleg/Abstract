@@ -4,35 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "12454e49c2b9f9a9",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "dd28e4e75e14cc98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "books.md",
-                "mode": "preview",
-                "source": false
+                "file": "files/Хакинг на LINUX.pdf",
+                "page": 94,
+                "left": -2,
+                "top": 200,
+                "zoom": 1.0972518676627536
               },
-              "icon": "lucide-file",
-              "title": "books"
+              "icon": "lucide-file-text",
+              "title": "Хакинг на LINUX"
             }
           },
           {
-            "id": "6e6ccc8e070b4d65",
+            "id": "01620b3649d78a30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "home/homepage.md",
-                "mode": "preview",
-                "source": false
+                "file": "files/Хакинг на LINUX.pdf",
+                "page": 17,
+                "left": -8,
+                "top": 577,
+                "zoom": 1.9393676455054463
               },
-              "icon": "lucide-file",
-              "title": "homepage"
+              "icon": "lucide-file-text",
+              "title": "Хакинг на LINUX"
             }
           }
         ],
@@ -268,17 +272,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6e6ccc8e070b4d65",
+  "active": "01620b3649d78a30",
   "lastOpenFiles": [
-    "books.md",
-    "home/homepage.md",
-    "2026-04-04.md",
-    "books/Linux для хакеров.md",
     "books/Хакинг на Linux.md",
-    "files/Kali. Хакинг на LINUX.pdf",
-    "books/Kali Linux библия пентестера.md",
+    "home/homepage.md",
     "files/Хакинг на LINUX.pdf",
+    "books.md",
+    "books/Linux для хакеров.md",
     "files/Linux для хакеров.pdf",
+    "books/Kali Linux библия пентестера.md",
+    "2026-04-04.md",
+    "files/Kali. Хакинг на LINUX.pdf",
     "coverUrl.md",
     "templates/book template.md",
     "books/My_Book.md",
@@ -307,7 +311,6 @@
     "books/Linux_Библия_10-е издание (Для профессионалов) - 2022.pdf",
     "books/Linux. Linux_От_новичка_к_профессионалу.pdf",
     "books/Linux_Уорд Б. Внутреннее устройство Linux 2022.pdf",
-    "Linux.md",
     "Холст1.canvas",
     "File_3/Анархия-5.jpg",
     "Без названия 2.canvas",

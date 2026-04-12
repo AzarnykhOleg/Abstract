@@ -13,6 +13,7 @@ ___
 tags:: 
 prev:: [[books|назад в библиотеку]]
 category:: Hacker
+author:: Денис Курец
 link:: [[../files/Linux для хакеров.pdf|Читать]]
 children::
 ___
