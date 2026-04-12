@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "fc9f2ae949debe11",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "278f01efc5e6c53f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.51103591918945,
-    "collapsed": true
+    "width": 353.51103591918945
   },
   "right": {
     "id": "1a4f8fb67156be35",
@@ -254,16 +253,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "278f01efc5e6c53f",
   "lastOpenFiles": [
+    "1.jpg",
+    "2026-04-04.md",
     "home/homepage.md",
+    "books/Linux для хакеров.md",
+    "Без названия.base",
+    "books.md",
     "files/Хакинг на LINUX.pdf",
     "books/Хакинг на Linux.md",
-    "books.md",
-    "books/Linux для хакеров.md",
     "files/Linux для хакеров.pdf",
     "books/Kali Linux библия пентестера.md",
-    "2026-04-04.md",
     "files/Kali. Хакинг на LINUX.pdf",
     "coverUrl.md",
     "templates/book template.md",
@@ -289,10 +290,8 @@
     "book_notes/Linux.md",
     "book_notes/Денис Николаевич Колисниченко.md",
     "books/Linux От новичка к профессионалу 4 изд - Колисниченко Денис Николаевич.md",
-    "1.jpg",
     "books/Linux_Библия_10-е издание (Для профессионалов) - 2022.pdf",
     "books/Linux. Linux_От_новичка_к_профессионалу.pdf",
-    "books/Linux_Уорд Б. Внутреннее устройство Linux 2022.pdf",
     "Холст1.canvas",
     "File_3/Анархия-5.jpg",
     "Без названия 2.canvas",

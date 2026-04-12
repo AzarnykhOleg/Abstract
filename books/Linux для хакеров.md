@@ -19,6 +19,5 @@ children::
 ___
 ![cover|150](https://kurets.ru/linux-for-hackers/images/cover_UMR4HIMU9.png)
 ___
-
-
-[что-то написано](../files/Linux%20для%20хакеров.pdf#page=33&annotation=7367R)
+`sadasd`
+![[Без названия.base]]
