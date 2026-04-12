@@ -1,19 +1,35 @@
 .book-page .markdown-preview-sizer {
-display: grid;
-grid-template-columns: 1fr 1fr;
-gap: 20px;
-align-items: start;
+  display: grid;
+  grid-template-columns: 1fr 170px;
+  gap: 0 30px;
+  align-items: start;
 }
-
-.book-page .metadata-container {
-grid-column: 1;
+/* Первая линия (___) на всю ширину */
+.book-page hr:first-of-type {
+  grid-column: 1 / -1;
+  margin: 0 0 10px 0;
 }
-
-.book-page p:has(img) {
-grid-column: 2;
-margin: 0;
+/* Параграф сразу после первой линии (поля tags/prev/category) - в левую колонку */
+.book-page hr:first-of-type + p {
+  grid-column: 1;
+  margin: 0;
+  padding-right: 10px;
 }
-
-.book-page .markdown-preview-sizer > div:not(.metadata-container):not(p:has(img)) {
-grid-column: 1 / -1;
+/* Параграф с картинкой - в правую колонку, на том же уровне */
+.book-page hr:nth-of-type(2) + p {
+  grid-column: 2;
+  grid-row: 2; /* На той же строке, что и поля */
+  margin: 0;
+}
+.book-page p:has(> img[alt*="cover"]) img {
+  width: 150px;
+  height: auto;
+  border-radius: 4px;
+  display: block;
+}
+/* Вторая линия (___ после картинки) и остальной контент на всю ширину */
+.book-page hr:nth-of-type(2),
+.book-page h1, .book-page h2, .book-page h3, 
+.book-page ul, .book-page ol, .book-page > div {
+  grid-column: 1 / -1;
 }
