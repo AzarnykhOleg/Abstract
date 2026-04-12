@@ -4,43 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "12454e49c2b9f9a9",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "dd28e4e75e14cc98",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "files/Хакинг на LINUX.pdf",
-                "page": 94,
-                "left": -2,
-                "top": 200,
-                "zoom": 1.0972518676627536
+                "file": "books.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Хакинг на LINUX"
-            }
-          },
-          {
-            "id": "01620b3649d78a30",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "files/Хакинг на LINUX.pdf",
-                "page": 17,
-                "left": -8,
-                "top": 577,
-                "zoom": 1.9393676455054463
-              },
-              "icon": "lucide-file-text",
-              "title": "Хакинг на LINUX"
+              "icon": "lucide-file",
+              "title": "books"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.51103591918945
+    "width": 353.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "1a4f8fb67156be35",
@@ -272,11 +254,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "01620b3649d78a30",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "books/Хакинг на Linux.md",
     "home/homepage.md",
     "files/Хакинг на LINUX.pdf",
+    "books/Хакинг на Linux.md",
     "books.md",
     "books/Linux для хакеров.md",
     "files/Linux для хакеров.pdf",

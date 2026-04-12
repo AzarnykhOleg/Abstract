@@ -69,7 +69,7 @@ banner_y: 0.111
 # :luc_library:  <span style="color: green" class="plain-text"> [**Библиотека**](books.md) </span> 
 
 
-# 🔗 <span style="color: green">**Полезные ссылки**</span> 
+# :obs_links_going_out: <span style="color: green">**Полезные ссылки**</span> 
 
 #### Курсы
 [Профессия "Белый хакер" (cyber-ed)](https://learn.cyber-ed.ru/course/view.php?id=439)
@@ -78,3 +78,4 @@ banner_y: 0.111
 [Proxy для анонимности (cyberyozh)](https://edu.cyberyozh.com/courses/course-proxy-dlya-anonimnosti/lesson)
 [Администрирование Линукс](https://www.youtube.com/watch?v=5UJtJMTKZNg&list=PLYl91BhaOf-kkXWweBzgOw555he6S7SUs)
 [Компьютерные сети (Созыкин)](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4ojPWFLuUz6g8c73Ta45bUN8)
+[Курс по Obsidian](https://www.youtube.com/watch?v=aeebp25l9Gg&list=PLrRc3UisLr6KVOYhzpSnywtHkCi2PEza5&index=2)
