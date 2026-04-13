@@ -2,7 +2,7 @@
 cssclasses:
   - dashboard
 banner: "![[1.jpg]]"
-banner_y: 0.111
+banner_y: 0.087
 ---
 
 # :oleg_python: <span style="color: green">**Python**</span>

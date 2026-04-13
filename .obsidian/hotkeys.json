@@ -15,5 +15,13 @@
       ],
       "key": "N"
     }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-exp-add_sourse_note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
   ]
 }

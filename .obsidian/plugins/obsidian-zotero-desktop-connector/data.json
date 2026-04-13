@@ -1,6 +1,6 @@
 {
   "database": "Zotero",
-  "noteImportFolder": "_zotero",
+  "noteImportFolder": "/",
   "pdfExportImageDPI": 120,
   "pdfExportImageFormat": "jpg",
   "pdfExportImageQuality": 90,
