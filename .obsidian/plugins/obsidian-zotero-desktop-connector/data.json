@@ -13,7 +13,7 @@
   "exportFormats": [
     {
       "name": "add_sourse_note",
-      "outputPathTemplate": "_zotero/{{citekey}}.md",
+      "outputPathTemplate": "/{{citekey}}.md",
       "imageOutputPathTemplate": "_attachments/{{citekey}}",
       "imageBaseNameTemplate": "image",
       "templatePath": "templates/ZOTERO.md",
