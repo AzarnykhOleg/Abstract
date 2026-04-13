@@ -27,7 +27,7 @@ Abstract:  {{abstractNote}}
 {{ annotation.annotatedText | escape }}
 
     {%- elif "Purple" in annotation.colorCategory %}
-***!!! {{ annotation.annotatedText | escape }} !!!***
+***❗❗❗ {{ annotation.annotatedText | escape }} ***
 
     {%- elif "Magenta" in annotation.colorCategory %}
 > {{ annotation.annotatedText | escape }}
