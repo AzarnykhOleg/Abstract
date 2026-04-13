@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fc9f2ae949debe11",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "278f01efc5e6c53f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books.md",
+                "file": "home/homepage.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "books"
+              "title": "homepage"
             }
           }
         ]
@@ -253,17 +253,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "278f01efc5e6c53f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "templates/ZOTERO.md",
+    "_zotero/zotero-item-26.md",
+    "books.md",
+    "2026-04-04.md",
+    "Без названия.base",
+    "home/homepage.md",
     "_attachments",
     "_zotero",
-    "templates/ZOTERO.md",
-    "1.jpg",
-    "2026-04-04.md",
-    "home/homepage.md",
+    "files/1.jpg",
     "books/Linux для хакеров.md",
-    "Без названия.base",
-    "books.md",
     "files/Хакинг на LINUX.pdf",
     "books/Хакинг на Linux.md",
     "files/Linux для хакеров.pdf",
@@ -291,8 +292,6 @@
     "books/Базаров_Магама_Сети_глазами_хакера_Глазами_хакера_2025.pdf",
     "books/Ubuntu 9 Библия пользователя - Денис Николаевич Колисниченко.md",
     "book_notes/Linux.md",
-    "book_notes/Денис Николаевич Колисниченко.md",
-    "books/Linux_Библия_10-е издание (Для профессионалов) - 2022.pdf",
     "Холст1.canvas",
     "File_3/Анархия-5.jpg",
     "Без названия 2.canvas",

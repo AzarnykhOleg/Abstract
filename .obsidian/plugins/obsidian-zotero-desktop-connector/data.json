@@ -16,7 +16,7 @@
       "outputPathTemplate": "_zotero/{{citekey}}.md",
       "imageOutputPathTemplate": "_attachments/{{citekey}}",
       "imageBaseNameTemplate": "image",
-      "templatePath": "_template/ZOTERO.md",
+      "templatePath": "templates/ZOTERO.md",
       "cslStyle": "chicago-author-date"
     }
   ],

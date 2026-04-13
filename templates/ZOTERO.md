@@ -6,10 +6,9 @@ authors: {{authors}}
 Abstract:  {{abstractNote}}
 ---
 
-### {{title}}
-{{pdfZoteroLink}}
+### [{{title}}]({{pdfZoteroLink}})
 
-### Notes
+### Конспект
 {% for annotation in annotations -%}
   {%- if annotation.annotatedText -%}
     {%- if "Gray" in annotation.colorCategory %}

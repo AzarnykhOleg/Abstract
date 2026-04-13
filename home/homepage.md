@@ -79,3 +79,6 @@ banner_y: 0.111
 [Администрирование Линукс](https://www.youtube.com/watch?v=5UJtJMTKZNg&list=PLYl91BhaOf-kkXWweBzgOw555he6S7SUs)
 [Компьютерные сети (Созыкин)](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4ojPWFLuUz6g8c73Ta45bUN8)
 [Курс по Obsidian](https://www.youtube.com/watch?v=aeebp25l9Gg&list=PLrRc3UisLr6KVOYhzpSnywtHkCi2PEza5&index=2)
+
+#### Статьи
+[Автоматизация конспектов для ленивых: Obsidian + Zotero / Хабр](https://habr.com/ru/companies/banki/articles/939120/)
