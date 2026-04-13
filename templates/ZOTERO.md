@@ -11,38 +11,35 @@ Abstract:  {{abstractNote}}
 ### Конспект
 {% for annotation in annotations -%}
   {%- if annotation.annotatedText -%}
-    {%- if "Gray" in annotation.colorCategory %}
-```
-{{annotation.annotatedText | escape}}
-```
-
-
-    {%- elif "Magenta" in annotation.colorCategory %}
+  
+	 {%- if "Yellow" in annotation.colorCategory %}
 # {{ annotation.annotatedText | escape }}
 ([{{ annotation.page }}](zotero://open-pdf/library/items/{{ annotation.attachment.itemKey }}?page={{ annotation.page }}&annotation={{ annotation.id }}))
-
-    {%- elif "Yellow" in annotation.colorCategory %}
+    
+      {%- elif "Red" in annotation.colorCategory %}
 ## {{ annotation.annotatedText | escape }}
 ([{{ annotation.page }}](zotero://open-pdf/library/items/{{ annotation.attachment.itemKey }}?page={{ annotation.page }}&annotation={{ annotation.id }}))
-
-    {%- elif "Red" in annotation.colorCategory %}
+    
+	  {%- elif "Green" in annotation.colorCategory %}
 ### {{ annotation.annotatedText | escape }}
-([{{ annotation.page }}](zotero://open-pdf/library/items/{{ annotation.attachment.itemKey }}?page={{ annotation.page }}&annotation={{ annotation.id }}))
 
-    {%- elif "Orange" in annotation.colorCategory %}
-`{{ annotation.annotatedText | escape }}`
-
-
-    {%- elif "Purple" in annotation.colorCategory %}
-**{{ annotation.annotatedText | escape }}**
-
-    {%- elif "Blue" in annotation.colorCategory %}
-> {{ annotation.annotatedText | escape }}
-
-
-    {%- elif "Green" in annotation.colorCategory %}
+	  {%- elif "Blue" in annotation.colorCategory %}
 {{ annotation.annotatedText | escape }}
 
+    {%- elif "Purple" in annotation.colorCategory %}
+***!!! {{ annotation.annotatedText | escape }} !!!***
+
+    {%- elif "Magenta" in annotation.colorCategory %}
+> {{ annotation.annotatedText | escape }}
+([{{ annotation.page }}](zotero://open-pdf/library/items/{{ annotation.attachment.itemKey }}?page={{ annotation.page }}&annotation={{ annotation.id }}))
+
+	   {%- elif "Orange" in annotation.colorCategory %}
+`{{ annotation.annotatedText | escape }}`
+
+    {%- elif "Gray" in annotation.colorCategory %}
+```python
+{{annotation.annotatedText | escape}}
+```
 
     {%- else %}
 {{ annotation.annotatedText | escape }}
