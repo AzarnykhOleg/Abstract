@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Zotero-Раскладка по цветам"
             }
+          },
+          {
+            "id": "e7bf54ac4f3f2bb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основы Python.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Основы Python"
+            }
+          },
+          {
+            "id": "b198d8b9aaaa90f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/ZOTERO.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ZOTERO"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,7 +253,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 476.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,8 +282,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e7bf54ac4f3f2bb1",
   "lastOpenFiles": [
+    "templates/ZOTERO.md",
+    "Основы Python.md",
+    "_zotero/Zotero-Раскладка по цветам.md",
     "README.md",
     "Без названия.md",
     "books.md",
@@ -263,9 +296,6 @@
     "books/Kali Linux библия пентестера.md",
     "books/Хакинг на Linux.md",
     "Без названия.base",
-    "_zotero/Zotero-Раскладка по цветам.md",
-    "templates/ZOTERO.md",
-    "Основы Python.md",
     "_attachments/Основы Python/image-11-x55-y136.png",
     "_attachments/Основы Python",
     "_zotero/Основы Python.md",
