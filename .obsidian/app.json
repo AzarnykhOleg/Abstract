@@ -3,7 +3,7 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "showLineNumber": false,
-  "promptDelete": false,
+  "promptDelete": true,
   "defaultViewMode": "preview",
   "newFileLocation": "root",
   "attachmentFolderPath": "files",
