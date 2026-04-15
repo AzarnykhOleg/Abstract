@@ -1,6 +1,4 @@
 ---
-banner: "![[1.jp
----
 cssclasses:
   - dashboard
 banner: "![[1.jpg]]"

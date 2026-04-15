@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
-                "mode": "source",
+                "file": "_zotero/Zotero-Раскладка по цветам.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "Zotero-Раскладка по цветам"
             }
           }
         ]
@@ -220,12 +220,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
-    "collapsed": true
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,7 +254,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "README.md",
+    "Без названия.md",
     "books.md",
+    "Ветвление.md",
     "home/homepage.md",
     "books/Linux для хакеров.md",
     "books/Kali Linux библия пентестера.md",
@@ -288,11 +290,9 @@
     "{{coverUrl}}.md",
     "Без названия",
     "files/Kali Linux библия пентестера - Гас Хаваджа.md",
-    "Ветвление.md",
     "Гас Хаваджа.md",
     "books/Department Of Defense Index of Specifications and Standards Numerical Canceled Listing (APPENDIX) Part IV November 2005.md",
     "library.md",
-    "Читать.md",
     "Холст1.canvas",
     "File_3/Анархия-5.jpg",
     "Без названия 2.canvas",
