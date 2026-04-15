@@ -6,7 +6,8 @@ authors: {{authors}}
 Abstract:  {{abstractNote}}
 ---
 
-### [{{title}}]({{pdfZoteroLink}})
+### [{{title}}](zotero://open-pdf/library/items/{{pdf.key}}?page=1)
+
 
 ### Конспект
 {% for annotation in annotations -%}

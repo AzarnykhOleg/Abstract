@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Добро пожаловать.md",
-                "mode": "preview",
-                "source": false
+                "file": "templates/ZOTERO.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Добро пожаловать"
+              "title": "ZOTERO"
+            }
+          },
+          {
+            "id": "a55e92a8baf68689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/ZOTERO.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ZOTERO"
+            }
+          },
+          {
+            "id": "01fe41dbec4938e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Установка и настройка Python.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Установка и настройка Python"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,12 +249,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
-    "collapsed": true
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,16 +281,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "01fe41dbec4938e3",
   "lastOpenFiles": [
-    "home/homepage.md",
-    "Добро пожаловать.md",
     "templates/ZOTERO.md",
     "Установка и настройка Python.md",
+    "templates/book template.md",
+    "README.md",
+    "books.md",
+    "Добро пожаловать.md",
+    "conflict-files-obsidian-git.md",
+    "home/homepage.md",
     "zotero-item-100.md",
     "_zotero/Zotero-Раскладка по цветам.md",
     "Основы Python.md",
-    "books.md",
     "books/Linux для хакеров.md",
     "books/Kali Linux библия пентестера.md",
     "books/Хакинг на Linux.md",
@@ -280,7 +311,6 @@
     "files/Linux для хакеров.pdf",
     "files/Kali. Хакинг на LINUX.pdf",
     "coverUrl.md",
-    "templates/book template.md",
     "books/My_Book.md",
     "templates/_inbox template.md",
     "templates/library_book.md",
@@ -292,8 +322,6 @@
     "Без названия",
     "files/Kali Linux библия пентестера - Гас Хаваджа.md",
     "Ветвление.md",
-    "Гас Хаваджа.md",
-    "books/Department Of Defense Index of Specifications and Standards Numerical Canceled Listing (APPENDIX) Part IV November 2005.md",
     "Холст1.canvas",
     "File_3/Анархия-5.jpg",
     "Без названия 2.canvas",
