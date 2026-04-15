@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "homepage"
             }
+          },
+          {
+            "id": "e75b73fb75503ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/ZOTERO.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ZOTERO"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,8 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
-    "collapsed": true
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,11 +281,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "68b7fc3214ba13ba",
+  "active": "e75b73fb75503ade",
   "lastOpenFiles": [
+    "ankulaginAvtomatizaciyaKonspektovDlya2025.md",
+    "templates/ZOTERO.md",
     "home/homepage.md",
     "books.md",
-    "templates/ZOTERO.md",
     "Основы Python.md",
     "_zotero/Zotero-Раскладка по цветам.md",
     "README.md",
@@ -308,7 +322,6 @@
     "files/Kali Linux библия пентестера - Гас Хаваджа.md",
     "Гас Хаваджа.md",
     "books/Department Of Defense Index of Specifications and Standards Numerical Canceled Listing (APPENDIX) Part IV November 2005.md",
-    "library.md",
     "Холст1.canvas",
     "File_3/Анархия-5.jpg",
     "Без названия 2.canvas",
