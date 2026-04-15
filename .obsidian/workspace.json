@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Установка и настройка Python.md",
+                "file": "templates/ZOTERO.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Установка и настройка Python"
+              "title": "ZOTERO"
             }
           }
         ],
@@ -283,8 +283,8 @@
   },
   "active": "01fe41dbec4938e3",
   "lastOpenFiles": [
-    "templates/ZOTERO.md",
     "Установка и настройка Python.md",
+    "templates/ZOTERO.md",
     "templates/book template.md",
     "README.md",
     "books.md",
