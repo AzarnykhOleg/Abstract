@@ -8,18 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cae436fbab729b3e",
+            "id": "3701d89fd472c6e2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Установка и настройка Python.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Index)"
+              "icon": "lucide-file",
+              "title": "Установка и настройка Python"
             }
           }
         ]
@@ -225,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 476.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,9 +253,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cae436fbab729b3e",
+  "active": "3701d89fd472c6e2",
   "lastOpenFiles": [
     "Установка и настройка Python.md",
+    "Циклы.md",
+    "Ветвление.md",
+    "Основы Python (PEP-8 и др.).md",
+    "home/homepage.md",
     "_attachments/Установка и настройка Python/image-25-x56-y782.png",
     "_attachments/Установка и настройка Python/image-24-x56-y63.png",
     "_attachments/Установка и настройка Python/image-11-x56-y138.png",
@@ -263,7 +267,6 @@
     "_attachments/Установка и настройка Python",
     "templates/ZOTERO.md",
     "_zotero/Zotero-Раскладка по цветам.md",
-    "home/homepage.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "templates/book template.md",
@@ -295,8 +298,6 @@
     "files/Kali Linux. Библия пентестера (2023).png",
     "files/Не подтверждено 964980.~",
     "files/Kali Linux библия пентестера - Гас Хаваджа.pdf.md",
-    "{{coverUrl}}.md",
-    "files/Kali Linux библия пентестера - Гас Хаваджа.md",
     "Холст1.canvas",
     "File_3/Анархия-5.jpg",
     "Без названия 2.canvas",
