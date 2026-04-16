@@ -11,14 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "templates/ZOTERO.md",
-                "bFile": "templates/ZOTERO.md",
-                "aRef": ""
+                "file": "home/homepage.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: ZOTERO  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "homepage"
             }
           }
         ]
@@ -220,7 +220,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
