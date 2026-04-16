@@ -4,39 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "fbe76cfefc69f1c2",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "cae436fbab729b3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "templates/ZOTERO.md",
-                "mode": "source",
-                "source": true
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "ZOTERO"
-            }
-          },
-          {
-            "id": "3a86599a8fe06f6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_zotero/Zotero-Раскладка по цветам.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Zotero-Раскладка по цветам"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Index)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,12 +221,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
-    "collapsed": true
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,18 +253,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3a86599a8fe06f6e",
+  "active": "cae436fbab729b3e",
   "lastOpenFiles": [
-    "home/homepage.md",
     "Установка и настройка Python.md",
+    "_attachments/Установка и настройка Python/image-25-x56-y782.png",
+    "_attachments/Установка и настройка Python/image-24-x56-y63.png",
+    "_attachments/Установка и настройка Python/image-11-x56-y138.png",
+    "_attachments/Установка и настройка Python/image-21-x56-y184.png",
+    "_attachments/Установка и настройка Python",
     "templates/ZOTERO.md",
+    "_zotero/Zotero-Раскладка по цветам.md",
+    "home/homepage.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "templates/book template.md",
     "books.md",
     "Добро пожаловать.md",
     "zotero-item-100.md",
-    "_zotero/Zotero-Раскладка по цветам.md",
     "Основы Python.md",
     "books/Linux для хакеров.md",
     "books/Kali Linux библия пентестера.md",
@@ -306,9 +296,7 @@
     "files/Не подтверждено 964980.~",
     "files/Kali Linux библия пентестера - Гас Хаваджа.pdf.md",
     "{{coverUrl}}.md",
-    "Без названия",
     "files/Kali Linux библия пентестера - Гас Хаваджа.md",
-    "Ветвление.md",
     "Холст1.canvas",
     "File_3/Анархия-5.jpg",
     "Без названия 2.canvas",
