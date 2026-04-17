@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zotero/Zotero-Раскладка по цветам.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Zotero-Раскладка по цветам"
-            }
-          },
-          {
-            "id": "68b7fc3214ba13ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "home/homepage.md",
                 "mode": "preview",
                 "source": false
@@ -34,23 +20,8 @@
               "icon": "lucide-file",
               "title": "homepage"
             }
-          },
-          {
-            "id": "e75b73fb75503ade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/ZOTERO.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ZOTERO"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,17 +252,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e75b73fb75503ade",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ankulaginAvtomatizaciyaKonspektovDlya2025.md",
     "templates/ZOTERO.md",
     "home/homepage.md",
     "books.md",
     "Основы Python.md",
-    "_zotero/Zotero-Раскладка по цветам.md",
-    "README.md",
-    "Без названия.md",
-    "Ветвление.md",
     "books/Linux для хакеров.md",
     "books/Kali Linux библия пентестера.md",
     "books/Хакинг на Linux.md",
@@ -309,7 +275,6 @@
     "files/Linux для хакеров.pdf",
     "files/Kali. Хакинг на LINUX.pdf",
     "coverUrl.md",
-    "templates/book template.md",
     "books/My_Book.md",
     "templates/_inbox template.md",
     "templates/library_book.md",
@@ -322,6 +287,7 @@
     "files/Kali Linux библия пентестера - Гас Хаваджа.md",
     "Гас Хаваджа.md",
     "books/Department Of Defense Index of Specifications and Standards Numerical Canceled Listing (APPENDIX) Part IV November 2005.md",
+    "library.md",
     "Холст1.canvas",
     "File_3/Анархия-5.jpg",
     "Без названия 2.canvas",
