@@ -5,16 +5,8 @@ authors: {{authors}}
 
 Abstract:  {{abstractNote}}
 ---
-
-<<<<<<< HEAD
-### [{{title}}]({{pdfZoteroLink}})
-
-
-### Конспект
-=======
 ### [{{title}}](zotero://open-pdf/library/items/{{pdf.key}})
 
->>>>>>> origin/main
 {% for annotation in annotations -%}
   {%- if annotation.annotatedText -%}
   
@@ -30,7 +22,7 @@ Abstract:  {{abstractNote}}
 ### {{ annotation.annotatedText | escape }}
 
 	  {%- elif "Blue" in annotation.colorCategory %}
-{{ annotation.annotatedText | escape }}
+	{{ annotation.annotatedText | escape }}
 
     {%- elif "Purple" in annotation.colorCategory %}
 ***❗❗❗ {{ annotation.annotatedText | escape }} ***
