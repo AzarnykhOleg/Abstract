@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ec72c07257e430a3",
+        "id": "ec7f3c8c5d3e4ab5",
         "type": "tabs",
         "children": [
           {
-            "id": "eacc12437e28bedc",
+            "id": "79d65d34f0fa96d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Циклы.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Циклы"
+            }
+          },
+          {
+            "id": "9f1cc995e5fe2265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Установка и настройка Python.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "Установка и настройка Python"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.51103591918945,
-    "collapsed": true
+    "width": 353.51103591918945
   },
   "right": {
     "id": "1a4f8fb67156be35",
@@ -253,10 +267,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "eacc12437e28bedc",
+  "active": "53add0a7fe06c36c",
   "lastOpenFiles": [
-    "Ветвление.md",
     "home/homepage.md",
+    "Циклы.md",
+    "Ветвление.md",
     "Установка и настройка Python.md",
     "Основы Python (PEP-8 и PEP-257).md",
     "files/Linux для хакеров.pdf",
@@ -264,7 +279,6 @@
     "books.md",
     "templates/ZOTERO.md",
     "conflict-files-obsidian-git.md",
-    "Циклы.md",
     "_attachments/Установка и настройка Python/image-25-x56-y782.png",
     "_attachments/Установка и настройка Python/image-24-x56-y63.png",
     "_attachments/Установка и настройка Python/image-21-x56-y184.png",

@@ -72,9 +72,6 @@ banner_y: 0.051
 
 # :oleg_gnubash: <span style="color: green">**Bash**</span> 
 
-Новая запись
-
-
 
 # :oleg_hackaday: <span style="color: green">**Pentest**</span> 
 
