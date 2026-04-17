@@ -29,7 +29,7 @@
               "state": {
                 "file": "Ветвление.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Ветвление"
@@ -269,11 +269,11 @@
   },
   "active": "4cfcc977b1559d8b",
   "lastOpenFiles": [
-    "home/homepage.md",
-    "Основы Python (PEP-8 и PEP-257).md",
-    "Установка и настройка Python.md",
     "templates/ZOTERO.md",
+    "Основы Python (PEP-8 и PEP-257).md",
     "Ветвление.md",
+    "home/homepage.md",
+    "Установка и настройка Python.md",
     "Циклы.md",
     "_attachments/Установка и настройка Python/image-25-x56-y782.png",
     "_attachments/Установка и настройка Python/image-24-x56-y63.png",
