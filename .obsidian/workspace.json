@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ec7f3c8c5d3e4ab5",
+        "id": "780ea38a35532078",
         "type": "tabs",
         "children": [
           {
-            "id": "9f1cc995e5fe2265",
+            "id": "37aee7572f74e413",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zotero/Zotero-Раскладка по цветам.md",
+                "file": "Простые объекты.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Zotero-Раскладка по цветам"
+              "title": "Простые объекты"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.51103591918945,
-    "collapsed": true
+    "width": 353.51103591918945
   },
   "right": {
     "id": "1a4f8fb67156be35",
@@ -225,8 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
-    "collapsed": true
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,13 +252,27 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9f1cc995e5fe2265",
+  "active": "37aee7572f74e413",
   "lastOpenFiles": [
-    "templates/ZOTERO.md",
-    "Простые типы данных.md",
-    "_zotero/Zotero-Раскладка по цветам.md",
-    "Установка и настройка Python.md",
+    "Математика в Python.md",
     "home/homepage.md",
+    "Простые объекты.md",
+    "Атрибуты и методы объектов.md",
+    "Аннотация типов.md",
+    "Простые типы данных.md",
+    "Строки.md",
+    "Установка и настройка Python.md",
+    "_zotero/Zotero-Раскладка по цветам.md",
+    "Простые типы данных — копия.md",
+    "Простые типы данных — копия (3).md",
+    "Простые типы данных — копия (2).md",
+    "_attachments/Простые типы данных/image-8-x56-y97.png",
+    "_attachments/Простые типы данных/image-24-x55-y220.png",
+    "_attachments/Простые типы данных/image-23-x56-y60.png",
+    "_attachments/Простые типы данных/image-12-x55-y471.png",
+    "_attachments/Простые типы данных/image-11-x55-y70.png",
+    "_attachments/Простые типы данных",
+    "templates/ZOTERO.md",
     "Циклы.md",
     "Ветвление.md",
     "Основы Python (PEP-8 и PEP-257).md",
@@ -285,22 +297,10 @@
     "2026-04-04.md",
     "_attachments",
     "_zotero",
-    "files/1.jpg",
     "files/Хакинг на LINUX.pdf",
     "files/Kali. Хакинг на LINUX.pdf",
-    "coverUrl.md",
-    "books/My_Book.md",
-    "templates/_inbox template.md",
-    "templates/library_book.md",
     "files/Kali Linux. Библия пентестера (2023).pdf",
-    "files/Kali Linux. Библия пентестера (2023).png",
-    "files/Не подтверждено 964980.~",
-    "files/Kali Linux библия пентестера - Гас Хаваджа.pdf.md",
-    "{{coverUrl}}.md",
-    "files/Kali Linux библия пентестера - Гас Хаваджа.md",
-    "Гас Хаваджа.md",
     "Холст1.canvas",
-    "File_3/Анархия-5.jpg",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
     "Без названия.canvas"
