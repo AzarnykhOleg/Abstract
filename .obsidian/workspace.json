@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b0e9fe2a996c27da",
+        "id": "ec72c07257e430a3",
         "type": "tabs",
         "children": [
           {
-            "id": "58b1f2b613001350",
+            "id": "eacc12437e28bedc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -221,12 +221,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
-    "collapsed": true
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,17 +253,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "58b1f2b613001350",
+  "active": "eacc12437e28bedc",
   "lastOpenFiles": [
+    "Ветвление.md",
+    "home/homepage.md",
+    "Установка и настройка Python.md",
+    "Основы Python (PEP-8 и PEP-257).md",
     "files/Linux для хакеров.pdf",
     "books/Linux для хакеров.md",
     "books.md",
-    "home/homepage.md",
-    "Ветвление.md",
     "templates/ZOTERO.md",
     "conflict-files-obsidian-git.md",
-    "Установка и настройка Python.md",
-    "Основы Python (PEP-8 и PEP-257).md",
     "Циклы.md",
     "_attachments/Установка и настройка Python/image-25-x56-y782.png",
     "_attachments/Установка и настройка Python/image-24-x56-y63.png",
