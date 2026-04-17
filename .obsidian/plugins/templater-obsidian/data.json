@@ -23,7 +23,7 @@
   "file_templates": [
     {
       "regex": ".*",
-      "template": ""
+      "template": "templates/ZOTERO.md"
     }
   ],
   "syntax_highlighting": true,

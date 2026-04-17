@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Ветвление.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "Ветвление"
+            }
+          },
+          {
+            "id": "e5bb1f0ad3abb190",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "templates/ZOTERO.md",
+                "bFile": "templates/ZOTERO.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: ZOTERO  (Working Tree)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,10 +267,20 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e5bb1f0ad3abb190",
   "lastOpenFiles": [
     "templates/ZOTERO.md",
+    "conflict-files-obsidian-git.md",
+    "Установка и настройка Python.md",
+    "Ветвление.md",
+    "Основы Python (PEP-8 и PEP-257).md",
+    "Циклы.md",
     "home/homepage.md",
+    "_attachments/Установка и настройка Python/image-25-x56-y782.png",
+    "_attachments/Установка и настройка Python/image-24-x56-y63.png",
+    "_attachments/Установка и настройка Python/image-21-x56-y184.png",
+    "_attachments/Установка и настройка Python/image-11-x56-y138.png",
+    "_attachments/Установка и настройка Python",
     "books.md",
     "Основы Python.md",
     "books/Linux для хакеров.md",
@@ -283,7 +308,6 @@
     "files/Не подтверждено 964980.~",
     "files/Kali Linux библия пентестера - Гас Хаваджа.pdf.md",
     "{{coverUrl}}.md",
-    "Без названия",
     "files/Kali Linux библия пентестера - Гас Хаваджа.md",
     "Гас Хаваджа.md",
     "books/Department Of Defense Index of Specifications and Standards Numerical Canceled Listing (APPENDIX) Part IV November 2005.md",

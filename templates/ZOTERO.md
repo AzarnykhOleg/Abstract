@@ -6,10 +6,15 @@ authors: {{authors}}
 Abstract:  {{abstractNote}}
 ---
 
+<<<<<<< HEAD
 ### [{{title}}]({{pdfZoteroLink}})
 
 
 ### Конспект
+=======
+### [{{title}}](zotero://open-pdf/library/items/{{pdf.key}})
+
+>>>>>>> origin/main
 {% for annotation in annotations -%}
   {%- if annotation.annotatedText -%}
   
