@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "780ea38a35532078",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "eb69ee1f854599eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Циклы.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Циклы"
-            }
-          },
-          {
-            "id": "09961380baf80a2a",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,12 +221,11 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
-    "collapsed": true
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,11 +253,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "09961380baf80a2a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Погружение в Python. Коллекции.md",
+    "home/homepage.md",
     "Циклы.md",
     "Простые объекты.md",
-    "home/homepage.md",
     "Математика в Python.md",
     "Атрибуты и методы объектов.md",
     "Аннотация типов.md",
@@ -311,7 +296,6 @@
     "_zotero/Основы Python.md",
     "_zotero/zotero-item-26.md",
     "_zotero/Конспект.md",
-    "2026-04-04.md",
     "_attachments",
     "_zotero",
     "files/Хакинг на LINUX.pdf",
