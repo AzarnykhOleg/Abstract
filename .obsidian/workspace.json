@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "home/homepage.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -28,15 +28,14 @@
               "type": "markdown",
               "state": {
                 "file": "Списки, [list].md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Списки, [list]"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -268,10 +267,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ba9ffaac350b407b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "home/homepage.md",
     "Списки, [list].md",
+    "home/homepage.md",
     "conflict-files-obsidian-git.md",
     "Строки.md",
     "Простые типы данных.md",
