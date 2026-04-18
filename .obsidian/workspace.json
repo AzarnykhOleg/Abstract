@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.51103591918945,
-    "collapsed": true
+    "width": 353.51103591918945
   },
   "right": {
     "id": "1a4f8fb67156be35",
@@ -225,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 476.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,14 +256,14 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Погружение в Python. Коллекции.md",
+    "Строки.md",
+    "Простые типы данных.md",
     "home/homepage.md",
     "Циклы.md",
     "Простые объекты.md",
     "Математика в Python.md",
     "Атрибуты и методы объектов.md",
     "Аннотация типов.md",
-    "Простые типы данных.md",
-    "Строки.md",
     "Установка и настройка Python.md",
     "_zotero/Zotero-Раскладка по цветам.md",
     "Простые типы данных — копия.md",
