@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "homepage"
             }
+          },
+          {
+            "id": "ea33db28f5d5233a",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.51103591918945,
-    "collapsed": true
+    "width": 353.51103591918945
   },
   "right": {
     "id": "1a4f8fb67156be35",
@@ -221,12 +235,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
-    "collapsed": true
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,15 +267,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f808212962e57957",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "home/homepage.md",
     "_zotero/Zotero-Раскладка по цветам.md",
     "Строки, str.md",
     "Списки, [list].md",
     "Строки.md",
     "Простые объекты.md",
-    "conflict-files-obsidian-git.md",
     "Простые типы данных.md",
     "Циклы.md",
     "Математика в Python.md",
