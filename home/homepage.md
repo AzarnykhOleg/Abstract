@@ -20,7 +20,7 @@ banner_y: 0.051
 - [Кортеж, (tuple)](../Кортеж,%20(tuple).md)
 - [Словарь, {dict}](../Словарь,%20{dict}.md)
 - [Множества {set} и ({frozenset})](../Множества%20{set}%20и%20({frozenset}).md)
-- Классы bytes и bytearray 
+- [Классы bytes и bytearray](../Классы%20bytes%20и%20bytearray.md)
 - Создание функций
 - Однострочники
 - Итераторы
