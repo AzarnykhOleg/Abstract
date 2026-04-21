@@ -20,24 +20,8 @@
               "icon": "lucide-file",
               "title": "homepage"
             }
-          },
-          {
-            "id": "dd6708b2b76068e4",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "home/homepage.md",
-                "bFile": "home/homepage.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: homepage  (Index)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabeticalReverse",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -237,11 +221,12 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 476.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,53 +254,54 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "dd6708b2b76068e4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "projects",
     "home/homepage.md",
-    "Создание функций.md",
     "Словарь, {dict}.md",
     "Множества {set} и ({frozenset}).md",
     "Кортеж, (tuple).md",
-    "Классы bytes и bytearray.md",
-    "Встроенные функции.md",
-    "Строки, str.md",
     "Списки, [list].md",
-    "Ветвление.md",
-    "Строки.md",
-    "Простые типы данных.md",
-    "Простые объекты.md",
+    "Строки, str.md",
+    "Классы bytes и bytearray.md",
+    "Множества {set} и ({frozenset{).md",
+    "Погружение в Python. Коллекции — копия (3).md",
+    "Погружение в Python. Коллекции — копия (2).md",
+    "Погружение в Python. Коллекции — копия.md",
     "Погружение в Python. Коллекции.md",
+    "conflict-files-obsidian-git.md",
+    "_zotero/Zotero-Раскладка по цветам.md",
+    "Строки.md",
+    "Простые объекты.md",
+    "Простые типы данных.md",
+    "Циклы.md",
     "Математика в Python.md",
     "Атрибуты и методы объектов.md",
     "Аннотация типов.md",
+    "Установка и настройка Python.md",
+    "Простые типы данных — копия.md",
+    "Простые типы данных — копия (3).md",
+    "Простые типы данных — копия (2).md",
     "_attachments/Простые типы данных/image-8-x56-y97.png",
     "_attachments/Простые типы данных/image-24-x55-y220.png",
     "_attachments/Простые типы данных/image-23-x56-y60.png",
     "_attachments/Простые типы данных/image-12-x55-y471.png",
     "_attachments/Простые типы данных/image-11-x55-y70.png",
     "_attachments/Простые типы данных",
-    "Установка и настройка Python-1.md",
-    "_attachments/Установка и настройка Python-1/image-25-x56-y782.png",
-    "_attachments/Установка и настройка Python-1/image-21-x56-y184.png",
-    "_attachments/Установка и настройка Python-1/image-24-x56-y63.png",
-    "_attachments/Установка и настройка Python-1/image-11-x56-y138.png",
-    "_attachments/Установка и настройка Python-1",
     "templates/ZOTERO.md",
-    "Основы Python (PEP-8 и PEP-257).md",
-    "Установка и настройка Python.md",
-    "Циклы.md",
+    "files/Linux для хакеров.pdf",
     "_attachments/Установка и настройка Python/image-25-x56-y782.png",
+    "_attachments/Установка и настройка Python/image-24-x56-y63.png",
+    "_attachments/Установка и настройка Python/image-21-x56-y184.png",
+    "_attachments/Установка и настройка Python/image-11-x56-y138.png",
     "_attachments/Установка и настройка Python",
-    "_zotero/Zotero-Раскладка по цветам.md",
-    "README.md",
     "Без названия.base",
+    "_attachments/Основы Python/image-11-x55-y136.png",
     "_attachments/Основы Python",
     "_attachments",
     "_zotero",
     "files/Хакинг на LINUX.pdf",
-    "files/Linux для хакеров.pdf",
+    "files/Kali. Хакинг на LINUX.pdf",
+    "files/Kali Linux. Библия пентестера (2023).pdf",
     "Холст1.canvas",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
