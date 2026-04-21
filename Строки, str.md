@@ -11,71 +11,111 @@ Abstract:
 
 	- упорядоченная неизменяемая (immutable) последовательность Unicode-символов.  
 ### Литералы:  
-	Одинарные кавычки: ‘строка’  
-	Двойные кавычки: “строка”  
-	Тройные кавычки: “‘многострочная строка”’ или “”“многострочная строка”“”  
+>	Одинарные кавычки: ‘строка’  
+
+>	Двойные кавычки: “строка”  
+
+>	Тройные кавычки: “‘многострочная строка”’ или “”“многострочная строка”“”  
+
 ### Свойства:  
-	Неизменяемость: изменение символа по индексу невозможно (s[0] = ‘a’ вызовет ошибку TypeError)  
+>	Неизменяемость: изменение символа по индексу невозможно (s[0] = ‘a’ вызовет ошибку TypeError)  
 	
-	Индексация: доступ к символам по индексу с начала (s[0]) и с конца (s[-1])  
+>	Индексация: доступ к символам по индексу с начала (s[0]) и с конца (s[-1])  
 	
-	Срезы: получение подстроки через s[начало:конец:шаг]
+>	Срезы: получение подстроки через s[начало:конец:шаг]
 ---
 # Встроенные функции  
 
 ***<span style="color: green">len(s)</span>***  - возвращает длину строки s  
-	***<span style="color: green">str(x)</span>***  - преобразует объект x в строку  
-	***<span style="color: green">ord(©)</span>***  - возвращает целочисленный код Unicode символа ©  
-	***<span style="color: green">chr(i)</span>***  - возвращает символ по его коду i  
-	***<span style="color: green">max(s)</span>***  - находит максимальный символ (по коду Unicode)  
-	***<span style="color: green">min(s)</span>***  - находит минимальный символ  
-	***<span style="color: green">sorted(s)</span>***  - возвращает отсортированный список символов строки  
-	***<span style="color: green">repr(s)</span>***  - возвращает строковое представление объекта (с экранированием)
+
+***<span style="color: green">str(x)</span>***  - преобразует объект x в строку  
+
+***<span style="color: green">ord(©)</span>***  - возвращает целочисленный код Unicode символа ©  
+
+***<span style="color: green">chr(i)</span>***  - возвращает символ по его коду i  
+
+***<span style="color: green">max(s)</span>***  - находит максимальный символ (по коду Unicode)  
+
+***<span style="color: green">min(s)</span>***  - находит минимальный символ  
+
+***<span style="color: green">sorted(s)</span>***  - возвращает отсортированный список символов строки  
+
+***<span style="color: green">repr(s)</span>***  - возвращает строковое представление объекта (с экранированием)
+
 ---
 # Методы строк
 ---
 ## Поиск и проверка содержимого:
 
 ***<span style="color: green">str.find(sub, start, end)</span>*** - индекс первого вхождения sub или -1
-	***<span style="color: green">str.rfind(sub, start, end)</span>*** - индекс последнего вхождения sub или -1
-	***<span style="color: green">str.index(sub, start, end)</span>*** - индекс первого вхождения или ValueError
-	***<span style="color: green">str.rindex(sub, start, end)</span>*** - индекс последнего вхождения или ValueError
-	***<span style="color: green">str.count(sub)</span>*** - количество непересекающихся вхождений sub
-	***<span style="color: green">str.startswith(prefix)</span>*** - проверка начала строки (True/False)
-	***<span style="color: green">str.endswith(suffix)</span>*** - проверка конца строки (True/False)
-	***<span style="color: green">str.isdigit()</span>*** - все символы - цифры
-	***<span style="color: green">str.isalpha()</span>*** - все символы - буквы
-	***<span style="color: green">str.isalnum()</span>*** - все символы буквенно-цифровые
-	***<span style="color: green">str.islower()</span>*** - все буквы в нижнем регистре
-	***<span style="color: green">str.isupper()</span>*** - все буквы в верхнем регистре
-	***<span style="color: green">str.istitle()</span>*** - каждое слово начинается с заглавной буквы
-	***<span style="color: green">str.isspace()</span>*** - все символы пробельные
+
+***<span style="color: green">str.rfind(sub, start, end)</span>*** - индекс последнего вхождения sub или -1
+
+***<span style="color: green">str.index(sub, start, end)</span>*** - индекс первого вхождения или ValueError
+
+***<span style="color: green">str.rindex(sub, start, end)</span>*** - индекс последнего вхождения или ValueError
+
+***<span style="color: green">str.count(sub)</span>*** - количество непересекающихся вхождений sub
+
+***<span style="color: green">str.startswith(prefix)</span>*** - проверка начала строки (True/False)
+
+***<span style="color: green">str.endswith(suffix)</span>*** - проверка конца строки (True/False)
+
+***<span style="color: green">str.isdigit()</span>*** - все символы - цифры
+
+***<span style="color: green">str.isalpha()</span>*** - все символы - буквы
+
+***<span style="color: green">str.isalnum()</span>*** - все символы буквенно-цифровые
+
+***<span style="color: green">str.islower()</span>*** - все буквы в нижнем регистре
+
+***<span style="color: green">str.isupper()</span>*** - все буквы в верхнем регистре
+
+***<span style="color: green">str.istitle()</span>*** - каждое слово начинается с заглавной буквы
+
+***<span style="color: green">str.isspace()</span>*** - все символы пробельные
 
 ---
 ## Изменение регистра (возвращают новую строку):
 
 ***<span style="color: green">str.lower()</span>*** - все буквы в нижний регистр
-    ***<span style="color: green">str.upper()</span>*** - все буквы в верхний регистр
-    ***<span style="color: green">str.capitalize()</span>*** - первая буква заглавная, остальные строчные
-    ***<span style="color: green">str.title()</span>*** - каждое слово с заглавной буквы
-    ***<span style="color: green">str.swapcase()</span>*** - инвертирование регистра (верхний/нижний)
+
+***<span style="color: green">str.upper()</span>*** - все буквы в верхний регистр
+
+***<span style="color: green">str.capitalize()</span>*** - первая буква заглавная, остальные строчные
+
+***<span style="color: green">str.title()</span>*** - каждое слово с заглавной буквы
+
+***<span style="color: green">str.swapcase()</span>*** - инвертирование регистра (верхний/нижний)
     
 ---
 ## Модификация строк (возвращают новую строку):
 
 ***<span style="color: green">str.strip(chars)</span>*** - удаление пробелов или символов chars с обоих концов
-    ***<span style="color: green">str.lstrip(chars)</span>*** - удаление слева
-    ***<span style="color: green">str.rstrip(chars)</span>*** - удаление справа
-    ***<span style="color: green">str.replace(old, new, count)</span>*** - замена old на new (count раз, если указан)
-    ***<span style="color: green">str.split(sep, maxsplit)</span>*** - разбиение строки в список по разделителю sep
-    ***<span style="color: green">str.rsplit(sep, maxsplit)</span>*** - разбиение справа
-    ***<span style="color: green">str.splitlines()</span>*** - разбиение по символам перевода строки
-    ***<span style="color: green">sep.join(iterable)</span>*** - объединение итерируемого объекта в строку с разделителем sep
-    ***<span style="color: green">str.center(width, fillchar)</span>*** - центрирование в поле шириной width
-    ***<span style="color: green">str.ljust(width, fillchar)</span>*** - выравнивание влево
-    ***<span style="color: green">str.rjust(width, fillchar)</span>*** - выравнивание вправо
-    ***<span style="color: green">str.zfill(width)</span>*** - дополнение нулями слева до ширины width
-    ***<span style="color: green">str.expandtabs(tabsize)</span>*** - замена табуляций на пробелы
+
+***<span style="color: green">str.lstrip(chars)</span>*** - удаление слева
+
+***<span style="color: green">str.rstrip(chars)</span>*** - удаление справа
+
+***<span style="color: green">str.replace(old, new, count)</span>*** - замена old на new (count раз, если указан)
+
+***<span style="color: green">str.split(sep, maxsplit)</span>*** - разбиение строки в список по разделителю sep
+
+***<span style="color: green">str.rsplit(sep, maxsplit)</span>*** - разбиение справа
+
+***<span style="color: green">str.splitlines()</span>*** - разбиение по символам перевода строки
+
+***<span style="color: green">sep.join(iterable)</span>*** - объединение итерируемого объекта в строку с разделителем sep
+
+***<span style="color: green">str.center(width, fillchar)</span>*** - центрирование в поле шириной width
+
+***<span style="color: green">str.ljust(width, fillchar)</span>*** - выравнивание влево
+
+***<span style="color: green">str.rjust(width, fillchar)</span>*** - выравнивание вправо
+
+***<span style="color: green">str.zfill(width)</span>*** - дополнение нулями слева до ширины width
+
+***<span style="color: green">str.expandtabs(tabsize)</span>*** - замена табуляций на пробелы
 
 ---
 # Форматирование строк

@@ -20,8 +20,24 @@
               "icon": "lucide-file",
               "title": "homepage"
             }
+          },
+          {
+            "id": "dd6708b2b76068e4",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "home/homepage.md",
+                "bFile": "home/homepage.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: homepage  (Index)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,12 +237,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
-    "collapsed": true
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,10 +269,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "dd6708b2b76068e4",
   "lastOpenFiles": [
-    "home/homepage.md",
     "conflict-files-obsidian-git.md",
+    "projects",
+    "home/homepage.md",
+    "Создание функций.md",
+    "Словарь, {dict}.md",
+    "Множества {set} и ({frozenset}).md",
+    "Кортеж, (tuple).md",
+    "Классы bytes и bytearray.md",
+    "Встроенные функции.md",
     "Строки, str.md",
     "Списки, [list].md",
     "Ветвление.md",
@@ -288,20 +310,12 @@
     "_attachments/Установка и настройка Python",
     "_zotero/Zotero-Раскладка по цветам.md",
     "README.md",
-    "templates/book template.md",
-    "books.md",
-    "Добро пожаловать.md",
-    "zotero-item-100.md",
-    "Основы Python.md",
-    "books/Linux для хакеров.md",
-    "books/Kali Linux библия пентестера.md",
     "Без названия.base",
     "_attachments/Основы Python",
     "_attachments",
     "_zotero",
     "files/Хакинг на LINUX.pdf",
     "files/Linux для хакеров.pdf",
-    "files/Kali. Хакинг на LINUX.pdf",
     "Холст1.canvas",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
