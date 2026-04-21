@@ -8,18 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "f034f9645251a1fa",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "home/homepage.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Index)"
+              "icon": "lucide-file",
+              "title": "homepage"
             }
           }
         ]
@@ -79,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.51103591918945,
-    "collapsed": true
+    "width": 353.51103591918945
   },
   "right": {
     "id": "1a4f8fb67156be35",
@@ -226,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 476.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,13 +253,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f034f9645251a1fa",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "home/homepage.md",
     "Встроенные функции.md",
-    "Создание функций.md",
+    "home/homepage.md",
     "Функции.md",
+    "_zotero/Zotero-Раскладка по цветам.md",
+    "conflict-files-obsidian-git.md",
+    "Создание функций.md",
     "Функции — копия.md",
     "Классы bytes и bytearray.md",
     "Множества {set} и ({frozenset}).md",
@@ -274,7 +274,6 @@
     "Погружение в Python. Коллекции — копия (2).md",
     "Погружение в Python. Коллекции — копия.md",
     "Погружение в Python. Коллекции.md",
-    "_zotero/Zotero-Раскладка по цветам.md",
     "Строки.md",
     "Простые объекты.md",
     "Простые типы данных.md",
