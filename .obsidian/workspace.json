@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "333c9233d8ab122d",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -221,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -254,10 +254,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "333c9233d8ab122d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "home/homepage.md",
+    "conflict-files-obsidian-git.md",
     "Строки, str.md",
     "Списки, [list].md",
     "Ветвление.md",
