@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "357c8a02c79e7eb0",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "831f91856151a10f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.51103591918945
+    "width": 353.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "1a4f8fb67156be35",
@@ -220,12 +221,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
-    "collapsed": true
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,14 +253,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "831f91856151a10f",
   "lastOpenFiles": [
-    "home/homepage.md",
-    "Однострочники.md",
-    "Итераторы.md",
-    "README.md",
     "Создание функции генератора.md",
+    "home/homepage.md",
     "Генераторы.md",
+    "Итераторы.md",
+    "Однострочники.md",
+    "README.md",
     "Итераторы и генераторы — копия (3).md",
     "Итераторы и генераторы — копия (2).md",
     "Итераторы и генераторы — копия.md",
