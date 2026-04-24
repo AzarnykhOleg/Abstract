@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "357c8a02c79e7eb0",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "831f91856151a10f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -221,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -254,10 +254,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "831f91856151a10f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Создание функции генератора.md",
     "home/homepage.md",
+    "Создание функции генератора.md",
     "Генераторы.md",
     "Итераторы.md",
     "Однострочники.md",
