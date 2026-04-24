@@ -198,5 +198,5 @@ print(deep_count(1500))
 ## Флаги и кодировки
 
 > **<span style="color: green">sys.flags</span>** — именованный кортеж с флагами командной строки, с которыми был запущен Python (-O оптимизация, -v подробный режим и т.д.).
-> 
-> **<span style="color: green">sys.getdefaultencoding()</span>**
+
+> **<span style="color: green">sys.getdefaultencoding()</span>** - функция в модуле sys в Python, которая возвращает название кодировки, используемой по умолчанию для преобразования строк (например, при работе с Unicode). По умолчанию это 'utf-8'.
