@@ -33,8 +33,8 @@ banner_y: 0.051
 - [Модуль random](../Модуль%20random.md)
 - [Работа с файлами](../Работа%20с%20файлами.md)
 - [Файловая система](../Файловая%20система.md)
-- JSON
-- CSV
+- [JSON](../JSON.md)
+- [CSV](../CSV.md)
 
 
 # :oleg_kalilinux: <span style="color: green">**Linux**</span> 
