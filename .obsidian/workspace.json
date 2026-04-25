@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b636965665ea583d",
+        "id": "5182a84bde5bb561",
         "type": "tabs",
         "children": [
           {
-            "id": "715da3505184cfd6",
+            "id": "682be9b27fb52087",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа с файлами.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Работа с файлами"
-            }
-          },
-          {
-            "id": "0a70288d80966136",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Словарь, {dict}.md",
+                "file": "Файловая система.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Словарь, {dict}"
+              "title": "Файловая система"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +74,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,10 +110,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "books/Без названия.md"
+                "file": "Файловая система.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для Без названия"
+              "title": "Свойства файла для Файловая система"
             }
           },
           {
@@ -150,7 +137,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "books/Без названия.md"
+                "file": "Файловая система.md"
               },
               "icon": "lucide-file-signature",
               "title": "Сноски"
@@ -205,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Без названия.md",
+                "file": "Файловая система.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура Файловая система"
             }
           },
           {
@@ -235,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -268,11 +255,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "715da3505184cfd6",
+  "active": "682be9b27fb52087",
   "lastOpenFiles": [
-    "Словарь, {dict}.md",
-    "Работа с файлами.md",
     "home/homepage.md",
+    "Работа с файлами.md",
+    "Словарь, {dict}.md",
     "templates/ZOTERO.md",
     "Файловая система.md",
     "Файлы и файловая система — копия.md",
