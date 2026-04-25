@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "91f7c0a62cace849",
+            "id": "0a70288d80966136",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/ZOTERO.md",
-                "mode": "preview",
-                "source": false
+                "file": "Словарь, {dict}.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ZOTERO"
+              "title": "Словарь, {dict}"
             }
           }
         ]
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.51103591918945
+    "width": 353.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "1a4f8fb67156be35",
@@ -269,12 +270,13 @@
   },
   "active": "715da3505184cfd6",
   "lastOpenFiles": [
-    "templates/ZOTERO.md",
+    "Словарь, {dict}.md",
     "Работа с файлами.md",
     "home/homepage.md",
+    "templates/ZOTERO.md",
     "Файловая система.md",
-    "Файлы и файловая система.md",
     "Файлы и файловая система — копия.md",
+    "Файлы и файловая система.md",
     "Модуль random.md",
     "Модуль sys.md",
     "Свои и встроенные модули.md",
@@ -287,7 +289,6 @@
     "Создание функций.md",
     "Классы bytes и bytearray.md",
     "Множества {set} и ({frozenset}).md",
-    "Словарь, {dict}.md",
     "Кортеж, (tuple).md",
     "Строки, str.md",
     "Списки, [list].md",

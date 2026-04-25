@@ -11,15 +11,13 @@ Abstract:  {{abstractNote}}
   {%- if annotation.annotatedText -%}
   
 	 {%- if "Yellow" in annotation.colorCategory %}
-# {{ annotation.annotatedText | escape }}
-([{{ annotation.page }}](zotero://open-pdf/library/items/{{ annotation.attachment.itemKey }}?page={{ annotation.page }}&annotation={{ annotation.id }}))
+# [{{ annotation.annotatedText | escape }}](zotero://open-pdf/library/items/{{ annotation.attachment.itemKey }}?page={{ annotation.page }}&annotation={{ annotation.id }})
     
       {%- elif "Red" in annotation.colorCategory %}
-## {{ annotation.annotatedText | escape }}
-([{{ annotation.page }}](zotero://open-pdf/library/items/{{ annotation.attachment.itemKey }}?page={{ annotation.page }}&annotation={{ annotation.id }}))
+## [{{ annotation.annotatedText | escape }}](zotero://open-pdf/library/items/{{ annotation.attachment.itemKey }}?page={{ annotation.page }}&annotation={{ annotation.id }})
     
 	  {%- elif "Green" in annotation.colorCategory %}
-### {{ annotation.annotatedText | escape }}
+### [{{ annotation.annotatedText | escape }}](zotero://open-pdf/library/items/{{ annotation.attachment.itemKey }}?page={{ annotation.page }}&annotation={{ annotation.id }})
 
 	  {%- elif "Blue" in annotation.colorCategory %}
 	{{ annotation.annotatedText | escape }}
