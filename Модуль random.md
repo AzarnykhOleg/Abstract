@@ -1,6 +1,6 @@
 ---
 date: 
-tags: Python
+tags: python
 authors: GB
 
 Abstract:  
