@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Файловая система.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -257,11 +257,12 @@
   },
   "active": "682be9b27fb52087",
   "lastOpenFiles": [
+    "Файловая система.md",
+    "Списки, [list].md",
     "home/homepage.md",
     "Работа с файлами.md",
     "Словарь, {dict}.md",
     "templates/ZOTERO.md",
-    "Файловая система.md",
     "Файлы и файловая система — копия.md",
     "Файлы и файловая система.md",
     "Модуль random.md",
@@ -278,7 +279,6 @@
     "Множества {set} и ({frozenset}).md",
     "Кортеж, (tuple).md",
     "Строки, str.md",
-    "Списки, [list].md",
     "Математика в Python.md",
     "Простые объекты.md",
     "Атрибуты и методы объектов.md",
