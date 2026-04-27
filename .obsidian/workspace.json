@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
-                "mode": "preview",
-                "source": false
+                "file": "Регулярные выражения.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "Регулярные выражения"
             }
           }
         ]
@@ -253,12 +253,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Итераторы.md",
     "Регулярные выражения.md",
+    "home/homepage.md",
     "Простые типы данных.md",
     "Файловая система.md",
     "templates/New note template.md",
     "Аннотация типов.md",
-    "home/homepage.md",
     "Работа с файлами.md",
     "Кортеж, (tuple).md",
     "Установка и настройка Python.md",
@@ -278,7 +279,6 @@
     "Модули. import.md",
     "Создание функции генератора.md",
     "Генераторы.md",
-    "Итераторы.md",
     "_attachments/Простые типы данных/image-8-x56-y97.png",
     "_attachments/Простые типы данных/image-24-x55-y220.png",
     "_attachments/Простые типы данных/image-23-x56-y60.png",

@@ -45,6 +45,7 @@ banner_y: 0.051
 	- [CSV](../CSV.md)
 - #### Регулярные выражения
 	- [Документация](https://docs.python.org/3/library/re.html)
+	- [Регулярные выражения](../Регулярные%20выражения.md)
 
 
 # :oleg_kalilinux: <span style="color: green">**Linux**</span> 
