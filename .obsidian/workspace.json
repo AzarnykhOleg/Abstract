@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Примеры регулярок.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "Примеры регулярок"
             }
           }
         ],
@@ -237,7 +237,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 476.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,9 +269,10 @@
   },
   "active": "602da69c520347d7",
   "lastOpenFiles": [
+    "home/homepage.md",
+    "Циклы.md",
     "Регулярные выражения.md",
     "Примеры регулярок.md",
-    "home/homepage.md",
     "Без названия",
     "Словарь, {dict}.md",
     "Итераторы.md",
@@ -294,7 +296,6 @@
     "Модуль sys.md",
     "Свои и встроенные модули.md",
     "Модули. import.md",
-    "Создание функции генератора.md",
     "_attachments/Простые типы данных/image-8-x56-y97.png",
     "_attachments/Простые типы данных/image-24-x55-y220.png",
     "_attachments/Простые типы данных/image-23-x56-y60.png",
