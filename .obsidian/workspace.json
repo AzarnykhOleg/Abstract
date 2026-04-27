@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "Регулярные выражения"
             }
-          },
-          {
-            "id": "654c74105234f731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Словарь, {dict}.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Словарь, {dict}"
-            }
           }
         ]
       }
@@ -232,12 +218,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
-    "collapsed": true
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,9 +253,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Словарь, {dict}.md",
-    "Регулярные выражения.md",
     "home/homepage.md",
+    "Регулярные выражения.md",
+    "Словарь, {dict}.md",
     "Итераторы.md",
     "Простые типы данных.md",
     "Файловая система.md",
