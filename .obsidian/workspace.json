@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
-                "mode": "preview",
-                "source": false
+                "file": "Установка и настройка Python.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "Установка и настройка Python"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,13 +74,11 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 353.51103591918945,
-    "collapsed": true
+    "width": 353.51103591918945
   },
   "right": {
     "id": "1a4f8fb67156be35",
@@ -110,10 +108,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "home/homepage.md"
+                "file": "Установка и настройка Python.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для homepage"
+              "title": "Свойства файла для Установка и настройка Python"
             }
           },
           {
@@ -137,7 +135,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "home/homepage.md"
+                "file": "Установка и настройка Python.md"
               },
               "icon": "lucide-file-signature",
               "title": "Сноски"
@@ -192,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Установка и настройка Python.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура homepage"
+              "title": "Структура Установка и настройка Python"
             }
           },
           {
@@ -257,8 +255,9 @@
   },
   "active": "6c0defcee3e18176",
   "lastOpenFiles": [
-    "CSV.md",
     "home/homepage.md",
+    "Однострочники.md",
+    "CSV.md",
     "JSON.md",
     "Файловая система.md",
     "Модуль random.md",
@@ -276,7 +275,6 @@
     "Создание функции генератора.md",
     "Генераторы.md",
     "Итераторы.md",
-    "Однострочники.md",
     "Встроенные функции.md",
     "Создание функций.md",
     "Классы bytes и bytearray.md",
