@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "44e816c1226955da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "617154fff75e91d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Примеры регулярок.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Примеры регулярок"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,10 +272,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "617154fff75e91d9",
   "lastOpenFiles": [
-    "home/homepage.md",
     "Регулярные выражения.md",
+    "Примеры регулярок.md",
+    "home/homepage.md",
+    "Без названия",
     "Словарь, {dict}.md",
     "Итераторы.md",
     "Простые типы данных.md",
@@ -279,7 +301,6 @@
     "Свои и встроенные модули.md",
     "Модули. import.md",
     "Создание функции генератора.md",
-    "Генераторы.md",
     "_attachments/Простые типы данных/image-8-x56-y97.png",
     "_attachments/Простые типы данных/image-24-x55-y220.png",
     "_attachments/Простые типы данных/image-23-x56-y60.png",
@@ -299,7 +320,6 @@
     "_zotero",
     "files/Хакинг на LINUX.pdf",
     "files/Kali. Хакинг на LINUX.pdf",
-    "files/Kali Linux. Библия пентестера (2023).pdf",
     "Холст1.canvas",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
