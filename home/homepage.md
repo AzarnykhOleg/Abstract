@@ -45,6 +45,8 @@ banner_y: 0.051
 	- [CSV](../CSV.md)
 - #### Регулярные выражения
 	- [Документация](https://docs.python.org/3/library/re.html)
+	- [Шпаргалка](https://devanych.ru/technologies/shpargalka-po-regulyarnym-vyrazheniyam)
+	- [Проверка регулярок](https://regex101.com/)
 	- [Регулярные выражения](../Регулярные%20выражения.md)
 	- [Примеры регулярок](../Примеры%20регулярок.md)
 
