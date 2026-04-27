@@ -44,7 +44,7 @@ banner_y: 0.051
 	- [JSON](../JSON.md)
 	- [CSV](../CSV.md)
 - #### Регулярные выражения
-	- 
+	- [Документация](https://docs.python.org/3/library/re.html)
 
 
 # :oleg_kalilinux: <span style="color: green">**Linux**</span> 
@@ -103,3 +103,4 @@ banner_y: 0.051
 
 #### Статьи
 [Автоматизация конспектов для ленивых: Obsidian + Zotero / Хабр](https://habr.com/ru/companies/banki/articles/939120/)
+[Управление знаниями в Obsidian](https://habr.com/ru/articles/710508/)

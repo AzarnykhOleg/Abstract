@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5182a84bde5bb561",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "6c0defcee3e18176",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Установка и настройка Python.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Установка и настройка Python"
-            }
-          },
-          {
-            "id": "4109e902b4524ab0",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "home/homepage.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "homepage"
             }
-          },
-          {
-            "id": "dcde2d60257c026e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,9 +107,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Регулярные выражения.md"
+              },
               "icon": "lucide-info",
-              "title": "Свойства файла"
+              "title": "Свойства файла для Регулярные выражения"
             }
           },
           {
@@ -240,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -270,19 +247,25 @@
       "media-extended:Open external media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "dcde2d60257c026e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Регулярные выражения.md",
+    "Простые типы данных.md",
+    "Файловая система.md",
+    "templates/New note template.md",
+    "Аннотация типов.md",
     "home/homepage.md",
+    "Работа с файлами.md",
+    "Кортеж, (tuple).md",
     "Установка и настройка Python.md",
     "Однострочники.md",
     "CSV.md",
     "JSON.md",
-    "Файловая система.md",
     "Модуль random.md",
-    "Работа с файлами.md",
     "Списки, [list].md",
     "Сериализация. JSON. CSV..md",
     "Сериализация. JSON. CSV. — копия.md",
@@ -296,11 +279,6 @@
     "Создание функции генератора.md",
     "Генераторы.md",
     "Итераторы.md",
-    "Встроенные функции.md",
-    "Создание функций.md",
-    "Классы bytes и bytearray.md",
-    "Множества {set} и ({frozenset}).md",
-    "Кортеж, (tuple).md",
     "_attachments/Простые типы данных/image-8-x56-y97.png",
     "_attachments/Простые типы данных/image-24-x55-y220.png",
     "_attachments/Простые типы данных/image-23-x56-y60.png",
