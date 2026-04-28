@@ -6,6 +6,7 @@
       {
         "id": "ea6dd573423e0cd8",
         "type": "tabs",
+        "dimension": 54.42536327608983,
         "children": [
           {
             "id": "2d1755c955c17cbb",
@@ -36,6 +37,20 @@
             }
           },
           {
+            "id": "450cf589c21fbc1e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://docs.python.org/3/library/socket.html",
+                "title": "socket — Low-level networking interface — Python 3.14.4 documentation",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "socket — Low-level networking interface — Python 3.14.4 documentation"
+            }
+          },
+          {
             "id": "ca96c278b004cb7e",
             "type": "leaf",
             "state": {
@@ -51,6 +66,46 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "dc6ac248c0537552",
+        "type": "tabs",
+        "dimension": 45.574636723910174,
+        "children": [
+          {
+            "id": "f82b5b271b8323c2",
+            "type": "leaf",
+            "state": {
+              "type": "translator-view",
+              "state": {
+                "language_from": "auto",
+                "language_to": "ru",
+                "translation_service": "google_translate",
+                "auto_translate": false,
+                "apply_glossary": false,
+                "view_mode": 0,
+                "filter_mode": 0,
+                "show_attribution": false,
+                "top_buttons": [
+                  "change-service",
+                  "automatic-translation",
+                  "change-layout",
+                  "apply-filter",
+                  "open-settings"
+                ],
+                "left_buttons": [
+                  "paste",
+                  "clear"
+                ],
+                "right_buttons": [
+                  "copy"
+                ]
+              },
+              "icon": "google_translate",
+              "title": "Google Translate"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.51103591918945
+    "width": 353.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "1a4f8fb67156be35",
@@ -277,10 +333,11 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "translate:Open translation view": false
     }
   },
-  "active": "ca96c278b004cb7e",
+  "active": "f82b5b271b8323c2",
   "lastOpenFiles": [
     "SOCKET.md",
     "Кортеж, (tuple).md",
