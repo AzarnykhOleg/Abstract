@@ -1,6 +1,6 @@
 {
   "highlighterStyle": "rounded",
-  "highlighterMethods": "inline-styles",
+  "highlighterMethods": "css-classes",
   "highlighters": {
     "Pink": "#FFB8EBA6",
     "Red": "#FF5582A6",
@@ -10,7 +10,8 @@
     "Cyan": "#ABF7F7A6",
     "Blue": "#ADCCFFA6",
     "Purple": "#D2B3FFA6",
-    "Grey": "#CACFD9A6"
+    "Grey": "#CACFD9A6",
+    "DarkBlue": "#0C0548A6"
   },
   "highlighterOrder": [
     "Pink",
@@ -21,6 +22,7 @@
     "Cyan",
     "Blue",
     "Purple",
-    "Grey"
+    "Grey",
+    "DarkBlue"
   ]
 }

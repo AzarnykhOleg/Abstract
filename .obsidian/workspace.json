@@ -8,45 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0492a09bb134814f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Регулярные выражения.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Регулярные выражения"
-            }
-          },
-          {
-            "id": "eb2c91720aeca1f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Примеры регулярок.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Примеры регулярок"
-            }
-          },
-          {
             "id": "2d1755c955c17cbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Кортеж, (tuple).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Кортеж, (tuple)"
+            }
+          },
+          {
+            "id": "660cd88a2797fcea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOCKET.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "SOCKET"
+            }
+          },
+          {
+            "id": "ca96c278b004cb7e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://habr.com/ru/companies/skillfactory/articles/690186/",
+                "title": "Руководство по программированию сокетов на Python. От введения до работающего примера / Хабр",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "Руководство по программированию сокетов на Python. От введения до работающего примера / Хабр"
             }
           }
         ],
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.51103591918945,
-    "collapsed": true
+    "width": 353.51103591918945
   },
   "right": {
     "id": "1a4f8fb67156be35",
@@ -281,10 +280,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2d1755c955c17cbb",
+  "active": "ca96c278b004cb7e",
   "lastOpenFiles": [
-    "Примеры регулярок.md",
+    "SOCKET.md",
+    "Кортеж, (tuple).md",
     "home/homepage.md",
+    "Создание функций.md",
+    "Примеры регулярок.md",
     "Регулярные выражения.md",
     "Циклы.md",
     "Без названия",
@@ -295,7 +297,6 @@
     "templates/New note template.md",
     "Аннотация типов.md",
     "Работа с файлами.md",
-    "Кортеж, (tuple).md",
     "Установка и настройка Python.md",
     "Однострочники.md",
     "CSV.md",
@@ -308,8 +309,6 @@
     "Файлы и файловая система — копия.md",
     "Файлы и файловая система.md",
     "Модуль sys.md",
-    "Свои и встроенные модули.md",
-    "Модули. import.md",
     "_attachments/Простые типы данных/image-8-x56-y97.png",
     "_attachments/Простые типы данных/image-24-x55-y220.png",
     "_attachments/Простые типы данных/image-23-x56-y60.png",
