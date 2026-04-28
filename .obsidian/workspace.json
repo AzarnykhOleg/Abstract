@@ -36,21 +36,21 @@
             }
           },
           {
-            "id": "602da69c520347d7",
+            "id": "2d1755c955c17cbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Примеры регулярок.md",
+                "file": "home/homepage.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Примеры регулярок"
+              "title": "homepage"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -281,11 +281,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "eb2c91720aeca1f2",
+  "active": "2d1755c955c17cbb",
   "lastOpenFiles": [
+    "Примеры регулярок.md",
     "home/homepage.md",
     "Регулярные выражения.md",
-    "Примеры регулярок.md",
     "Циклы.md",
     "Без названия",
     "Словарь, {dict}.md",

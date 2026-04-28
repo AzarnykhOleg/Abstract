@@ -60,6 +60,7 @@ banner_y: 0.051
 
 
 # :luc_network:    <span style="color: green">**Network**</span> 
+
 - #### Организация компьютерных сетей
 	- Терминология сетей
 	- Модель ISO OSI
@@ -96,15 +97,16 @@ banner_y: 0.051
 
 # :obs_links_going_out: <span style="color: green">**Полезные ссылки**</span> 
 
-#### Курсы
-[Профессия "Белый хакер" (cyber-ed)](https://learn.cyber-ed.ru/course/view.php?id=439)
-[Комплексная настройка безопасности и анонимности (cyberyozh)](https://book.cyberyozh.com/ru/vstuplenie/kurs-kompleksnaya-nastrojka-bezopasnosti-i-anonimnosti)
-[Специалист по кибербезопасности (cyberyozh)](https://edu.cyberyozh.com/courses/course-specialist-po-kiberbezopasnosti-s-nulya-dlya-jun/lesson)
-[Proxy для анонимности (cyberyozh)](https://edu.cyberyozh.com/courses/course-proxy-dlya-anonimnosti/lesson)
-[Администрирование Линукс](https://www.youtube.com/watch?v=5UJtJMTKZNg&list=PLYl91BhaOf-kkXWweBzgOw555he6S7SUs)
-[Компьютерные сети (Созыкин)](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4ojPWFLuUz6g8c73Ta45bUN8)
-[Курс по Obsidian](https://www.youtube.com/watch?v=aeebp25l9Gg&list=PLrRc3UisLr6KVOYhzpSnywtHkCi2PEza5&index=2)
+- #### Курсы
+	- [Профессия "Белый хакер" (cyber-ed)](https://learn.cyber-ed.ru/course/view.php?id=439)
+	- [Комплексная настройка безопасности и анонимности (cyberyozh)](https://book.cyberyozh.com/ru/vstuplenie/kurs-kompleksnaya-nastrojka-bezopasnosti-i-anonimnosti)
+	- [Специалист по кибербезопасности (cyberyozh)](https://edu.cyberyozh.com/courses/course-specialist-po-kiberbezopasnosti-s-nulya-dlya-jun/lesson)
+	- [Proxy для анонимности (cyberyozh)](https://edu.cyberyozh.com/courses/course-proxy-dlya-anonimnosti/lesson)
+	- [Администрирование Линукс](https://www.youtube.com/watch?v=5UJtJMTKZNg&list=PLYl91BhaOf-kkXWweBzgOw555he6S7SUs)
+	- [Компьютерные сети (Созыкин)](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4ojPWFLuUz6g8c73Ta45bUN8)
+	- [Курс по Obsidian](https://www.youtube.com/watch?v=aeebp25l9Gg&list=PLrRc3UisLr6KVOYhzpSnywtHkCi2PEza5&index=2)
 
-#### Статьи
-[Автоматизация конспектов для ленивых: Obsidian + Zotero / Хабр](https://habr.com/ru/companies/banki/articles/939120/)
-[Управление знаниями в Obsidian](https://habr.com/ru/articles/710508/)
+- #### Статьи
+	- [Автоматизация конспектов для ленивых: Obsidian + Zotero / Хабр](https://habr.com/ru/companies/banki/articles/939120/)
+	- [Управление знаниями в Obsidian](https://habr.com/ru/articles/710508/)
+	- [VeraCrypt-инструкция](https://veracrypt.jp/ru/Beginner%27s%20Tutorial.html)
