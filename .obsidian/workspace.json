@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
-                "mode": "preview",
-                "source": false
+                "file": "SOCKET.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "SOCKET"
+            }
+          },
+          {
+            "id": "7f80785e684e7a7a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://habr.com/ru/companies/skillfactory/articles/690186/",
+                "title": "Руководство по программированию сокетов на Python. От введения до работающего примера / Хабр",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "Руководство по программированию сокетов на Python. От введения до работающего примера / Хабр"
+            }
+          },
+          {
+            "id": "7f7cf9d23ead5488",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://career.habr.com/courses/?utm_source=habr&utm_medium=feature&utm_campaign=ft_edu_17",
+                "title": "ТОП онлайн-курсов – Хабр Карьера",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "ТОП онлайн-курсов – Хабр Карьера"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.51103591918945
+    "width": 353.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "1a4f8fb67156be35",
@@ -107,11 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Регулярные выражения.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "Свойства файла для Регулярные выражения"
+              "title": "Свойства файла"
             }
           },
           {
@@ -188,12 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Руководство по программированию сокетов на Python. От введения до работающего примера  -  Хабр.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Руководство по программированию сокетов на Python. От введения до работающего примера  -  Хабр"
             }
           },
           {
@@ -217,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,13 +281,13 @@
       "translate:Open translation view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7f80785e684e7a7a",
   "lastOpenFiles": [
-    "Руководство по программированию сокетов на Python. От введения до работающего примера  -  Хабр.md",
     "SOCKET.md",
+    "home/homepage.md",
+    "Руководство по программированию сокетов на Python. От введения до работающего примера  -  Хабр.md",
     "Свои и встроенные модули.md",
     "Кортеж, (tuple).md",
-    "home/homepage.md",
     "Создание функций.md",
     "Примеры регулярок.md",
     "Регулярные выражения.md",

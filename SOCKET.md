@@ -1,6 +1,8 @@
 ---
-date:
-tags: python
+date: 29.04.2026
+tags:
+  - python
+  - socket
 authors:
 Abstract:
 ---
