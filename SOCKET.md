@@ -37,7 +37,7 @@ Abstract:
 
 ## Создание сокета
 
-**_socket.socket(family=AF_INET, type=SOCK_STREAM, proto=0, fileno=None)_** — фабричная функция, создающая и возвращающий объект сокета.
+***<span style="color: green">socket.socket(family=AF_INET, type=SOCK_STREAM, proto=0, fileno=None)</span>*** — фабричная функция, создающая и возвращающий объект сокета.
 
 - **family** — семейство адресов: `AF_INET` (IPv4, по умолчанию), `AF_INET6` (IPv6), `AF_UNIX` (локальные Unix-сокеты).
 - **type** — тип сокета: `SOCK_STREAM` (TCP), `SOCK_DGRAM` (UDP), `SOCK_RAW` (низкоуровневый доступ).
@@ -86,29 +86,29 @@ with conn:
 serv_sock.close()
 ```
 
-**_socket.bind(address)_** — привязывает сокет к локальному адресу (хост, порт). Для TCP-сервера обязательно перед `listen`.
+***<span style="color: green">socket.bind(address)</span>*** — привязывает сокет к локальному адресу (хост, порт). Для TCP-сервера обязательно перед `listen`.
 
-**_socket.listen([backlog])_** — переводит серверный сокет в режим прослушивания входящих соединений. `backlog` — максимальное количество соединений в очереди на обработку
+***<span style="color: green">socket.listen([backlog])</span>*** — переводит серверный сокет в режим прослушивания входящих соединений. `backlog` — максимальное количество соединений в очереди на обработку
 
 <a href="https://python-course.readthedocs.io/projects/year2/en/latest/lessons/06-sockets.html">python-course.readthedocs.io</a>
 
 .
 
-**_socket.accept()_** — принимает входящее соединение. Возвращает кортеж `(conn_socket, address)`, где `conn_socket` — новый объект сокета для отправки/получения данных от конкретного клиента, а `address` — адрес клиента. Исходный сокет продолжает слушать новые подключения
+***<span style="color: green">socket.accept()</span>*** — принимает входящее соединение. Возвращает кортеж `(conn_socket, address)`, где `conn_socket` — новый объект сокета для отправки/получения данных от конкретного клиента, а `address` — адрес клиента. Исходный сокет продолжает слушать новые подключения
 
 <a href="https://javarush.com/quests/lectures/ru.javarush.python.core.lecture.level13.lecture06">javarush.com</a>
 
 .
 
-**_socket.recv(bufsize[, flags])_** — получает данные из сокета. Возвращает объект bytes. Максимальный размер буфера — `bufsize`. Если соединение закрыто, возвращает пустой байтовый объект `b''`
+***<span style="color: green">socket.recv(bufsize[, flags])</span>*** — получает данные из сокета. Возвращает объект bytes. Максимальный размер буфера — `bufsize`. Если соединение закрыто, возвращает пустой байтовый объект `b''`
 
 <a href="https://python-course.readthedocs.io/projects/year2/en/latest/lessons/06-sockets.html">python-course.readthedocs.io</a>
 
 .
 
-**_socket.send(bytes[, flags])_** — отправляет данные в сокет. Возвращает количество фактически отправленных байт (может быть меньше длины данных из-за заполнения буфера).
+***<span style="color: green">socket.send(bytes[, flags])</span>*** — отправляет данные в сокет. Возвращает количество фактически отправленных байт (может быть меньше длины данных из-за заполнения буфера).
 
-**_socket.sendall(bytes[, flags])_** — отправляет все данные, автоматически обрабатывая фрагментацию (циклически вызывает `send` до полной отправки или возникновения ошибки). Предпочтительнее для TCP
+***<span style="color: green">socket.sendall(bytes[, flags])</span>*** — отправляет все данные, автоматически обрабатывая фрагментацию (циклически вызывает `send` до полной отправки или возникновения ошибки). Предпочтительнее для TCP
 
 <a href="https://javarush.com/quests/lectures/ru.javarush.python.core.lecture.level13.lecture06">javarush.com</a>
 
@@ -134,7 +134,7 @@ finally:
     sock.close()
 ```
 
-**_socket.connect(address)_** — устанавливает соединение с сервером по указанному адресу (хост, порт). Для TCP вызывает `ConnectionRefusedError`, если сервер недоступен
+***<span style="color: green">socket.connect(address)</span>*** — устанавливает соединение с сервером по указанному адресу (хост, порт). Для TCP вызывает `ConnectionRefusedError`, если сервер недоступен
 
 <a href="https://javarush.com/quests/lectures/ru.javarush.python.core.lecture.level13.lecture06">javarush.com</a>
 
@@ -166,10 +166,10 @@ data, addr = sock.recvfrom(1024)
 sock.close()
 ```
 
-**_socket.recvfrom(bufsize[, flags])_** — для UDP. Возвращает кортеж `(data, address)`, где `address` — адрес отправителя, необходимый для отправки ответа.
+***<span style="color: green">socket.recvfrom(bufsize[, flags])</span>*** — для UDP. Возвращает кортеж `(data, address)`, где `address` — адрес отправителя, необходимый для отправки ответа.
 
-**_socket.sendto(bytes, address)_** — для UDP. Отправляет дейтаграмму по указанному адресу без предварительного `connect` (хотя `connect` возможен и для UDP для фиксации адреса по умолчанию).
+***<span style="color: green">socket.sendto(bytes, address)</span>*** — для UDP. Отправляет дейтаграмму по указанному адресу без предварительного `connect` (хотя `connect` возможен и для UDP для фиксации адреса по умолчанию).
 
 ## Управление сокетами
 
-**_socket.close()_** — закрывает сокет, освобождая системные ресурсы и порт. Рекомендуется
+***<span style="color: green">socket.close()</span>*** — закрывает сокет, освобождая системные ресурсы и порт. Рекомендуется
