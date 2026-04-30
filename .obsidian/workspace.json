@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOCKET.md",
-                "mode": "source",
-                "source": true
+                "file": "home/homepage.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "SOCKET"
-            }
-          },
-          {
-            "id": "7f80785e684e7a7a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://habr.com/ru/companies/skillfactory/articles/690186/",
-                "title": "Руководство по программированию сокетов на Python. От введения до работающего примера / Хабр",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "Руководство по программированию сокетов на Python. От введения до работающего примера / Хабр"
-            }
-          },
-          {
-            "id": "7f7cf9d23ead5488",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://career.habr.com/courses/?utm_source=habr&utm_medium=feature&utm_campaign=ft_edu_17",
-                "title": "ТОП онлайн-курсов – Хабр Карьера",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "ТОП онлайн-курсов – Хабр Карьера"
+              "title": "homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -281,7 +252,7 @@
       "translate:Open translation view": false
     }
   },
-  "active": "7f80785e684e7a7a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "SOCKET.md",
     "home/homepage.md",
