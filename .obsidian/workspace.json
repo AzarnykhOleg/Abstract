@@ -34,6 +34,34 @@
               "icon": "lucide-file",
               "title": "SOCKET"
             }
+          },
+          {
+            "id": "13b92cdf32bd2850",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://habr.com/ru/companies/skillfactory/articles/690186/",
+                "title": "Руководство по программированию сокетов на Python. От введения до работающего примера / Хабр",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Руководство по программированию сокетов на Python. От введения до работающего примера / Хабр"
+            }
+          },
+          {
+            "id": "69ab23d2235cfb7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home/homepage.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "homepage"
+            }
           }
         ],
         "currentTab": 1
@@ -269,9 +297,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "SOCKET.md",
-    "Словарь, {dict}.md",
     "home/homepage.md",
+    "SOCKET.md",
+    "files/sockets.jpeg",
+    "Словарь, {dict}.md",
     "Руководство по программированию сокетов на Python. От введения до работающего примера  -  Хабр.md",
     "Свои и встроенные модули.md",
     "Кортеж, (tuple).md",
@@ -295,7 +324,6 @@
     "Сериализация. JSON. CSV..md",
     "Сериализация. JSON. CSV. — копия.md",
     "templates/ZOTERO.md",
-    "Файлы и файловая система — копия.md",
     "_attachments/Простые типы данных/image-8-x56-y97.png",
     "_attachments/Простые типы данных/image-24-x55-y220.png",
     "_attachments/Простые типы данных/image-23-x56-y60.png",
@@ -309,7 +337,6 @@
     "_attachments/Установка и настройка Python/image-11-x56-y138.png",
     "_attachments/Установка и настройка Python",
     "Без названия.base",
-    "_attachments/Основы Python/image-11-x55-y136.png",
     "_attachments/Основы Python",
     "_attachments",
     "_zotero",
