@@ -66,6 +66,8 @@ r = requests.post('https://jsonplaceholder.typicode.com/posts', json=payload)
 
 ***<span style="color: green">response.url</span>*** — конечный URL после всех редиректов (если allow_redirects=True, по умолчанию для GET).
 
+
+
 ```python
 import requests  
 import os  
@@ -82,4 +84,19 @@ if response.status_code == 200:
     print("Файл загружен")  
 else:  
     print(f"Не удалось скачать изображение. Статус код: {response.status_code}")
+```
+
+
+```python
+import requests  
+  
+url = "https://catfact.ninja/fact"  
+  
+response = requests.get(url, verify=True)  
+  
+if response.status_code == 200:  
+    print(response.text)  
+    print(response.json())  
+    print(response.url)  
+    print(response.headers)
 ```
