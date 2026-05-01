@@ -342,8 +342,21 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 - разрабатывать и использовать обратные подключения (reverse shell, bind shell),
 - взаимодействовать напрямую с удалёнными сервисами, минуя высокоуровневые инструменты.
 
+
+
+
+
+
 # Ссылки
-[Документация](https://docs.python.org/3/library/socket.html)
-[Руководство по программированию сокетов на Python](https://habr.com/ru/companies/skillfactory/articles/690186/)
-[Низкоуровневый сетевой интерфейс в Python](https://docs-python.ru/standart-library/modul-socket-setevoj-interfejs-python/)
-[Модуль socket](https://javarush.com/quests/lectures/ru.javarush.python.core.lecture.level13.lecture06)
+## [Документация](https://docs.python.org/3/library/socket.html)
+## [Модуль socket в Python: от основ к сложным сетевым приложениям](https://sky.pro/wiki/media/kak-rabotat-s-modulem-socket-v-python/)
+1. [Создание простого TCP-сервера с помощью socket в Python](https://sky.pro/wiki/media/kak-rabotat-s-modulem-socket-v-python/#section-1)
+2. [Разработка TCP-клиента: взаимодействие с сервером](https://sky.pro/wiki/media/kak-rabotat-s-modulem-socket-v-python/#section-2)
+3. [Реализация UDP протокола в модуле socket Pytho](https://sky.pro/wiki/media/kak-rabotat-s-modulem-socket-v-python/#section-3)
+4. [Неблокирующие сокеты и мультиплексирование ввода-вывода](https://sky.pro/wiki/media/kak-rabotat-s-modulem-socket-v-python/#section-5)
+5. [Параметры сокетов и опции](https://sky.pro/wiki/media/kak-rabotat-s-modulem-socket-v-python/#section-6)
+6. [DNS и сетевые функции](https://sky.pro/wiki/media/kak-rabotat-s-modulem-socket-v-python/#section-7)
+7. [Асинхронное программирование с сокетами](https://sky.pro/wiki/media/kak-rabotat-s-modulem-socket-v-python/#section-8)
+8. [SSL/TLS шифрование](https://sky.pro/wiki/media/kak-rabotat-s-modulem-socket-v-python/#section-9)
+
+## [Руководство по программированию сокетов на Python](https://habr.com/ru/companies/skillfactory/articles/690186/)
