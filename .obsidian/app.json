@@ -13,5 +13,6 @@
     "templates/"
   ],
   "propertiesInDocument": "hidden",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "readableLineLength": true
 }

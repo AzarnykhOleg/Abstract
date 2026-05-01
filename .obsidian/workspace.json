@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "48edcbe0f3e22b67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
+                "file": "REQUESTS.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "REQUESTS"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.51103591918945
+    "width": 353.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "1a4f8fb67156be35",
@@ -253,12 +254,14 @@
       "translate:Open translation view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "48edcbe0f3e22b67",
   "lastOpenFiles": [
-    "REQUESTS.md",
-    "SOCKET.md",
-    "Без названия",
     "home/homepage.md",
+    "SOCKET.md",
+    "Регулярные выражения.md",
+    "Множества {set} и ({frozenset}).md",
+    "REQUESTS.md",
+    "Без названия",
     "files/sockets.jpeg",
     "Словарь, {dict}.md",
     "Руководство по программированию сокетов на Python. От введения до работающего примера  -  Хабр.md",
@@ -266,7 +269,6 @@
     "Кортеж, (tuple).md",
     "Создание функций.md",
     "Примеры регулярок.md",
-    "Регулярные выражения.md",
     "Циклы.md",
     "Итераторы.md",
     "Простые типы данных.md",
@@ -282,7 +284,6 @@
     "Списки, [list].md",
     "Сериализация. JSON. CSV..md",
     "Сериализация. JSON. CSV. — копия.md",
-    "templates/ZOTERO.md",
     "_attachments/Простые типы данных/image-8-x56-y97.png",
     "_attachments/Простые типы данных/image-24-x55-y220.png",
     "_attachments/Простые типы данных/image-23-x56-y60.png",
