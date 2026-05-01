@@ -65,3 +65,21 @@ r = requests.post('https://jsonplaceholder.typicode.com/posts', json=payload)
 ***<span style="color: green">response.request</span>*** — объект PreparedRequest с информацией об исходном запросе (метод, URL, заголовки, тело).
 
 ***<span style="color: green">response.url</span>*** — конечный URL после всех редиректов (если allow_redirects=True, по умолчанию для GET).
+
+```python
+import requests  
+import os  
+  
+url = ("https://img.freepik.com/free-photo/cute-kitten-sitting-looking-camera-surrounded-by-flowers-generated-by-artificial-intelligence_25030-66192.jpg?semt=ais_hybrid")  
+filename = "cat_2.jpg"  
+path = os.path.join('C:\\', 'Users', 'User', 'Pictures', filename)  
+  
+response = requests.get(url)  
+  
+if response.status_code == 200:  
+    with open(path, 'wb') as file:  
+        file.write(response.content)  
+    print("Файл загружен")  
+else:  
+    print(f"Не удалось скачать изображение. Статус код: {response.status_code}")
+```
