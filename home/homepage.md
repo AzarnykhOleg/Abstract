@@ -45,6 +45,7 @@ banner_y: 0.191
 	- [Модули. import](../Модули.%20import.md)
 	- [Свои и встроенные модули](../Свои%20и%20встроенные%20модули.md)
 	- [SYS](../Модуль%20sys.md)
+	- [PATHLIB](../PATHLIB.md)
 	- [RANDOM](../Модуль%20random.md)
 	- [SOCKET](../SOCKET.md)
 	- [REQUESTS](../REQUESTS.md)
