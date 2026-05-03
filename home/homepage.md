@@ -49,6 +49,7 @@ banner_y: 0.191
 	- [RANDOM](../Модуль%20random.md)
 	- [SOCKET](../SOCKET.md)
 	- [REQUESTS](../REQUESTS.md)
+	- [SUBPROCESS](../SUBPROCESS.md)
 
 # :oleg_kalilinux: <span style="color: green">**Linux**</span> 
 - Потоки ввода-вывода данных
