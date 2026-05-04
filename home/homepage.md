@@ -52,11 +52,8 @@ banner_y: 0.191
 	- [SUBPROCESS](../SUBPROCESS.md)
 
 # :oleg_kalilinux: <span style="color: green">**Linux**</span> 
-- Потоки ввода-вывода данных
-- Символические и жёсткие ссылки
-- Монтирование файловых систем
-- Работа с пакетами средствами dpkg
-- Редактор VIM
+- #### Сеть
+	- [netcat](../netcat.md)
 
 
 # :luc_network:    <span style="color: green">**Network**</span> 
