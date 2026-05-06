@@ -54,6 +54,7 @@ banner_y: 0.191
 # :oleg_kalilinux: <span style="color: green">**Linux**</span> 
 - #### Сеть
 	- [netcat](../netcat.md)
+	- Msfvenom
 
 
 # :luc_network:    <span style="color: green">**Network**</span> 
