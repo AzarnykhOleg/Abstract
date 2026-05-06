@@ -346,7 +346,26 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 - разрабатывать и использовать обратные подключения (reverse shell, bind shell),
 - взаимодействовать напрямую с удалёнными сервисами, минуя высокоуровневые инструменты.
 
+# Простой сканер портов
 
+```python
+import socket
+
+def check_port(host, port):
+    s = socket.socket()
+    s.settimeout(1)
+    result = s.connect_ex((host, port))
+    if result == 0:
+        print(f"[+] Порт {port} открыт")
+    elif result == 111 or result == 10061:
+        print(f"[-] Порт {port} закрыт")
+    else:
+        print(f"[?] Порт {port} фильтруется или неизвестный ответ ({result})")
+    s.close()
+
+for port in range(20, 81):
+    check_port("ip_addr", port)
+```
 
 
 
