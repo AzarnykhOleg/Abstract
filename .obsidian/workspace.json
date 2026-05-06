@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
+                "file": "SOCKET.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "SOCKET"
             }
           }
         ],
@@ -271,8 +271,8 @@
   },
   "active": "bbaa76f53c7d6356",
   "lastOpenFiles": [
-    "netcat.md",
     "home/homepage.md",
+    "netcat.md",
     "Списки, [list].md",
     "SOCKET.md",
     "SUBPROCESS.md",

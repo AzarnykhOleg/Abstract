@@ -46,11 +46,15 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 ***<span style="color: green">socket.bind(address)</span>*** — привязывает сокет к локальному адресу (хост, порт). Для TCP-сервера обязательно перед `listen`.
 
+***<span style="color: green">address --> (host, port)</span>***
+
 ***<span style="color: green">socket.listen([backlog])</span>*** — переводит серверный сокет в режим прослушивания входящих соединений. `backlog` — максимальное количество соединений в очереди на обработку
 
 ***<span style="color: green">socket.accept()</span>*** — принимает входящее соединение. Возвращает кортеж `(conn_socket, address)`, где `conn_socket` — новый объект сокета для отправки/получения данных от конкретного клиента, а `address` — адрес клиента. Исходный сокет продолжает слушать новые подключения
 
 ***<span style="color: green">socket.connect(address)</span>*** — устанавливает соединение с сервером по указанному адресу (хост, порт). Для TCP вызывает `ConnectionRefusedError`, если сервер недоступен
+
+***<span style="color: green">socket.connect_ex(address)</span>*** — используется для установления TCP-соединения с удаленным сервером и возвращает индикатор ошибки вместо того, чтобы поднимать исключение в случае сбоя соединения.
 
 ***<span style="color: green">socket.send(bytes[, flags])</span>*** — отправляет данные в сокет. Возвращает количество фактически отправленных байт (может быть меньше длины данных из-за заполнения буфера).
 
