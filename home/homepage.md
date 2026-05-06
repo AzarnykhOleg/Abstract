@@ -51,10 +51,15 @@ banner_y: 0.191
 	- [REQUESTS](../REQUESTS.md)
 	- [SUBPROCESS](../SUBPROCESS.md)
 
-# :oleg_kalilinux: <span style="color: green">**Linux**</span> 
+# :oleg_linux: <span style="color: green">**Linux**</span> 
 - #### Сеть
 	- [netcat](../netcat.md)
 	- Msfvenom
+
+# :oleg_kalilinux: <span style="color: green">**Kali Linux Tools**</span> 
+- #### Сеть
+	- Nmap
+	- 
 
 
 # :luc_network:    <span style="color: green">**Network**</span> 
