@@ -350,6 +350,10 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 ```python
 import socket
+import sys
+
+
+host = sys.argv[1]
 
 def check_port(host, port):
     s = socket.socket()
@@ -363,8 +367,9 @@ def check_port(host, port):
         print(f"[?] Порт {port} фильтруется или неизвестный ответ ({result})")
     s.close()
 
-for port in range(20, 81):
-    check_port("ip_addr", port)
+
+for port in range(20, 26):
+    check_port(host, port)
 ```
 
 
