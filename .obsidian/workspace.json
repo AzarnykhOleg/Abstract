@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.51103591918945
+    "width": 353.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "1a4f8fb67156be35",
@@ -237,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 476.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,7 +269,7 @@
       "translate:Open translation view": false
     }
   },
-  "active": "f808212962e57957",
+  "active": "963ddf5a5c666690",
   "lastOpenFiles": [
     "Модуль sys.md",
     "SOCKET.md",
