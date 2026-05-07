@@ -58,8 +58,8 @@ banner_y: 0.191
 
 # :oleg_kalilinux: <span style="color: green">**Kali Linux Tools**</span> 
 - #### Сеть
-	- Nmap
-	- 
+	- [Nmap](../Nmap.md)
+	- [Masscan](../Masscan.md)
 
 
 # :luc_network:    <span style="color: green">**Network**</span> 
