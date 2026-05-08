@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
+                "file": "SOCKET.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "SOCKET"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "THREADING.md"
+                "file": "SOCKET.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для THREADING"
+              "title": "Свойства файла для SOCKET"
             }
           },
           {
@@ -268,7 +269,7 @@
       "translate:Open translation view": false
     }
   },
-  "active": "963ddf5a5c666690",
+  "active": "09b53903b7840051",
   "lastOpenFiles": [
     "home/homepage.md",
     "THREADING.md",
