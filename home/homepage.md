@@ -46,6 +46,7 @@ banner_y: 0.191
 	- [Свои и встроенные модули](../Свои%20и%20встроенные%20модули.md)
 - #### Модули P-R
 	- [PATHLIB](../PATHLIB.md)
+	- [QUEUE](../QUEUE.md)
 	- [RANDOM](../Модуль%20random.md)
 	- [REQUESTS](../REQUESTS.md)
 - #### Модули S-T

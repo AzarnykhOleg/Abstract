@@ -14,14 +14,43 @@
               "type": "markdown",
               "state": {
                 "file": "SOCKET.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "SOCKET"
             }
+          },
+          {
+            "id": "ba70248272a8f77b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home/homepage.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "homepage"
+            }
+          },
+          {
+            "id": "c053884fe24470e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QUEUE.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "QUEUE"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,10 +138,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SOCKET.md"
+                "file": "QUEUE.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для SOCKET"
+              "title": "Свойства файла для QUEUE"
             }
           },
           {
@@ -146,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Linux для хакеров.md",
+                "file": "QUEUE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +185,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Linux для хакеров"
+              "title": "Обратные ссылки для QUEUE"
             }
           },
           {
@@ -219,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -254,13 +283,14 @@
       "translate:Open translation view": false
     }
   },
-  "active": "6eb149004b597ea1",
+  "active": "c053884fe24470e4",
   "lastOpenFiles": [
     "home/homepage.md",
+    "QUEUE.md",
+    "SOCKET.md",
     "Модуль sys.md",
     "PATHLIB.md",
     "Модуль random.md",
-    "SOCKET.md",
     "REQUESTS.md",
     "SUBPROCESS.md",
     "THREADING.md",
@@ -288,7 +318,6 @@
     "Свои и встроенные модули.md",
     "Кортеж, (tuple).md",
     "Создание функций.md",
-    "Примеры регулярок.md",
     "_attachments/Простые типы данных/image-8-x56-y97.png",
     "_attachments/Простые типы данных/image-24-x55-y220.png",
     "_attachments/Простые типы данных/image-23-x56-y60.png",
