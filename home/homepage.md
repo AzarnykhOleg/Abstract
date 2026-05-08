@@ -44,13 +44,16 @@ banner_y: 0.191
 - #### Модули
 	- [Модули. import](../Модули.%20import.md)
 	- [Свои и встроенные модули](../Свои%20и%20встроенные%20модули.md)
-	- [SYS](../Модуль%20sys.md)
+- #### Модули P-R
 	- [PATHLIB](../PATHLIB.md)
 	- [RANDOM](../Модуль%20random.md)
-	- [SOCKET](../SOCKET.md)
 	- [REQUESTS](../REQUESTS.md)
+- #### Модули S-T
+	- [SOCKET](../SOCKET.md)
 	- [SUBPROCESS](../SUBPROCESS.md)
+	- [SYS](../Модуль%20sys.md)
 	- [THREADING](../THREADING.md)
+
 
 # :oleg_linux: <span style="color: green">**Linux**</span> 
 - #### Сеть

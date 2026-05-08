@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "461f4ae4b60859c8",
         "type": "tabs",
         "children": [
           {
-            "id": "963ddf5a5c666690",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THREADING.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "THREADING"
-            }
-          },
-          {
-            "id": "09b53903b7840051",
+            "id": "6eb149004b597ea1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "SOCKET.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "SOCKET"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,12 +254,16 @@
       "translate:Open translation view": false
     }
   },
-  "active": "09b53903b7840051",
+  "active": "6eb149004b597ea1",
   "lastOpenFiles": [
     "home/homepage.md",
-    "THREADING.md",
     "Модуль sys.md",
+    "PATHLIB.md",
+    "Модуль random.md",
     "SOCKET.md",
+    "REQUESTS.md",
+    "SUBPROCESS.md",
+    "THREADING.md",
     "netcat.md",
     "Masscan.md",
     "Nmap.md",
@@ -282,13 +271,10 @@
     "files/Kali Linux. Библия пентестера (2023).pdf",
     "books.md",
     "Списки, [list].md",
-    "SUBPROCESS.md",
-    "PATHLIB.md",
     "_attachments/Установка и настройка Python/image-24-x56-y63.png",
     "_attachments/Установка и настройка Python/image-25-x56-y782.png",
     "README.md",
     "Файловая система.md",
-    "REQUESTS.md",
     "Циклы.md",
     "files/1.jpg",
     "files/sockets.jpeg",
@@ -303,7 +289,6 @@
     "Кортеж, (tuple).md",
     "Создание функций.md",
     "Примеры регулярок.md",
-    "Итераторы.md",
     "_attachments/Простые типы данных/image-8-x56-y97.png",
     "_attachments/Простые типы данных/image-24-x55-y220.png",
     "_attachments/Простые типы данных/image-23-x56-y60.png",
