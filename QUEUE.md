@@ -45,6 +45,7 @@ print(pq.get())  # (1, 'высокий приоритет')
 
 ```python
 import queue
+
 q = queue.Queue(maxsize=2)
 q.put("первый")
 q.put("вторый")
@@ -86,6 +87,7 @@ except queue.Full:
 
 ```python
 q = queue.Queue()
+
 # Производитель
 for i in range(5):
     q.put(i)
@@ -100,7 +102,7 @@ q.join()  # Ждём завершения всех task_done()
 print("Все задачи выполнены")
 ```
 
-## Исключения
+# Исключения
 
 ***<span style="color: green">queue.Empty</span>*** — выбрасывается get_nowait() или get(block=False) при пустой очереди, либо get() с timeout при истечении времени.
 
@@ -108,6 +110,7 @@ print("Все задачи выполнены")
 
 ```python
 import queue
+
 try:
     item = q.get_nowait()
 except queue.Empty:
@@ -118,7 +121,7 @@ except queue.Full:
     print("Очередь полна")
 ```
 
-## Паттерн “Производитель-Потребитель”
+# Паттерн “Производитель-Потребитель”
 
 > Классический паттерн: один или несколько потоков производят данные, другие потребляют. Модуль queue обеспечивает потокобезопасность и сигнализацию.
 
@@ -127,6 +130,7 @@ import threading
 import queue
 import time
 import random
+
 class ProducerConsumer:
     def __init__(self):
         self.q = queue.Queue(maxsize=10)
@@ -153,11 +157,12 @@ threading.Thread(target=pc.producer, args=(range(5),)).start()
 threading.Thread(target=pc.consumer).start()
 ```
 
-## Множественные производители и потребители
+# Множественные производители и потребители
 
 ```python
 import threading
 import queue
+
 q = queue.Queue()
 sentinel = object()
 def producer(id, count):
@@ -187,7 +192,7 @@ q.join()  # Ждём обработки всех элементов
 cons.join()
 ```
 
-## Аварийное завершение с Poison Pill
+# Аварийное завершение с Poison Pill
 
 > “Ядовитая пилюля” (sentinel-значение) используется для сигнализации потребителям о необходимости завершения.
 
@@ -218,7 +223,7 @@ for t in threads:
     t.join()
 ```
 
-## Приоритетная очередь с пользовательскими объектами
+# Приоритетная очередь с пользовательскими объектами
 
 ```python
 import queue
@@ -235,3 +240,6 @@ while not tasks.empty():
     task = tasks.get()
     print(f"{task.priority}: {task.name}")
 ```
+
+# Ссылки
+[Не бойтесь потоков в Python, они не кусаются](https://habr.com/ru/companies/otus/articles/857094/)
