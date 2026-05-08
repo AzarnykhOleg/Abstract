@@ -420,3 +420,5 @@ for t in threads:
 8. [SSL/TLS шифрование](https://sky.pro/wiki/media/kak-rabotat-s-modulem-socket-v-python/#section-9)
 
 ## [Руководство по программированию сокетов на Python](https://habr.com/ru/companies/skillfactory/articles/690186/)
+
+## [Объект Socket модуля socket в Python](https://docs-python.ru/standart-library/modul-socket-setevoj-interfejs-python/obekt-socket-modulja-socket/#Socket.connect_ex)
