@@ -50,6 +50,7 @@ banner_y: 0.191
 	- [SOCKET](../SOCKET.md)
 	- [REQUESTS](../REQUESTS.md)
 	- [SUBPROCESS](../SUBPROCESS.md)
+	- [THREADING](../THREADING.md)
 
 # :oleg_linux: <span style="color: green">**Linux**</span> 
 - #### Сеть

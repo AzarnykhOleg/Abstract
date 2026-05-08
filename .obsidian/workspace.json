@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
+                "file": "THREADING.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "THREADING"
             }
           }
         ],
@@ -124,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "home/homepage.md"
+                "file": "THREADING.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для homepage"
+              "title": "Свойства файла для THREADING"
             }
           },
           {
@@ -234,7 +234,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -271,9 +271,10 @@
   },
   "active": "963ddf5a5c666690",
   "lastOpenFiles": [
+    "home/homepage.md",
+    "THREADING.md",
     "Модуль sys.md",
     "SOCKET.md",
-    "home/homepage.md",
     "netcat.md",
     "Masscan.md",
     "Nmap.md",
@@ -303,7 +304,6 @@
     "Создание функций.md",
     "Примеры регулярок.md",
     "Итераторы.md",
-    "Простые типы данных.md",
     "_attachments/Простые типы данных/image-8-x56-y97.png",
     "_attachments/Простые типы данных/image-24-x55-y220.png",
     "_attachments/Простые типы данных/image-23-x56-y60.png",
