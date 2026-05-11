@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "461f4ae4b60859c8",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "6958dc59c9af9fc9",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOCKET.md",
+                "file": "home/homepage.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "SOCKET"
+              "title": "homepage"
             }
           }
         ]
@@ -109,10 +109,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SOCKET.md"
+                "file": "QUEUE.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для SOCKET"
+              "title": "Свойства файла для QUEUE"
             }
           },
           {
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOCKET.md",
+                "file": "QUEUE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для SOCKET"
+              "title": "Обратные ссылки для QUEUE"
             }
           },
           {
@@ -219,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -254,18 +254,18 @@
       "translate:Open translation view": false
     }
   },
-  "active": "6958dc59c9af9fc9",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "home/homepage.md",
-    "SOCKET.md",
     "QUEUE.md",
+    "home/homepage.md",
+    "THREADING.md",
+    "netcat.md",
+    "SOCKET.md",
     "Модуль sys.md",
     "PATHLIB.md",
     "Модуль random.md",
     "REQUESTS.md",
     "SUBPROCESS.md",
-    "THREADING.md",
-    "netcat.md",
     "Masscan.md",
     "Nmap.md",
     "books/Kali Linux библия пентестера.md",
