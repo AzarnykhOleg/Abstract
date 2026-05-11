@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
+                "file": "SOCKET.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "SOCKET"
             }
           }
         ]
@@ -256,11 +256,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "QUEUE.md",
+    "SOCKET.md",
     "home/homepage.md",
+    "QUEUE.md",
     "THREADING.md",
     "netcat.md",
-    "SOCKET.md",
     "Модуль sys.md",
     "PATHLIB.md",
     "Модуль random.md",
