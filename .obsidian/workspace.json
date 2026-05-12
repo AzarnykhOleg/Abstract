@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "86672444091469e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOCKET.md",
+                "file": "Файловая система.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Файловая система"
+            }
+          },
+          {
+            "id": "f47d5f26c164906f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIME.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SOCKET"
+              "title": "TIME"
+            }
+          },
+          {
+            "id": "a55c5eae47576e83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Установка и настройка Python.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Установка и настройка Python"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,10 +138,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "QUEUE.md"
+                "file": "TIME.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для QUEUE"
+              "title": "Свойства файла для TIME"
             }
           },
           {
@@ -219,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,17 +283,21 @@
       "translate:Open translation view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f47d5f26c164906f",
   "lastOpenFiles": [
-    "SOCKET.md",
+    "Установка и настройка Python.md",
     "home/homepage.md",
+    "Файловая система.md",
+    "TIME.md",
+    "OS.md",
+    "REQUESTS.md",
+    "SOCKET.md",
     "QUEUE.md",
     "THREADING.md",
     "netcat.md",
     "Модуль sys.md",
     "PATHLIB.md",
     "Модуль random.md",
-    "REQUESTS.md",
     "SUBPROCESS.md",
     "Masscan.md",
     "Nmap.md",
@@ -275,7 +308,6 @@
     "_attachments/Установка и настройка Python/image-24-x56-y63.png",
     "_attachments/Установка и настройка Python/image-25-x56-y782.png",
     "README.md",
-    "Файловая система.md",
     "Циклы.md",
     "files/1.jpg",
     "files/sockets.jpeg",
@@ -286,9 +318,6 @@
     "Без названия",
     "Словарь, {dict}.md",
     "Руководство по программированию сокетов на Python. От введения до работающего примера  -  Хабр.md",
-    "Свои и встроенные модули.md",
-    "Кортеж, (tuple).md",
-    "Создание функций.md",
     "_attachments/Простые типы данных/image-8-x56-y97.png",
     "_attachments/Простые типы данных/image-24-x55-y220.png",
     "_attachments/Простые типы данных/image-23-x56-y60.png",

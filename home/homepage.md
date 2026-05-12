@@ -44,7 +44,8 @@ banner_y: 0.191
 - #### Модули
 	- [Модули. import](../Модули.%20import.md)
 	- [Свои и встроенные модули](../Свои%20и%20встроенные%20модули.md)
-- #### Модули P-R
+- #### Модули O-R
+	- [OS](../OS.md)
 	- [PATHLIB](../PATHLIB.md)
 	- [QUEUE](../QUEUE.md)
 	- [RANDOM](../Модуль%20random.md)
@@ -54,6 +55,7 @@ banner_y: 0.191
 	- [SUBPROCESS](../SUBPROCESS.md)
 	- [SYS](../Модуль%20sys.md)
 	- [THREADING](../THREADING.md)
+	- [TIME](../TIME.md)
 
 
 # :oleg_linux: <span style="color: green">**Linux**</span> 
