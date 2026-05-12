@@ -51,6 +51,7 @@ banner_y: 0.191
 	- [RANDOM](../Модуль%20random.md)
 	- [REQUESTS](../REQUESTS.md)
 - #### Модули S-T
+	- [SHUTIL](../SHUTIL.md)
 	- [SOCKET](../SOCKET.md)
 	- [SUBPROCESS](../SUBPROCESS.md)
 	- [SYS](../Модуль%20sys.md)

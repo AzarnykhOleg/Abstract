@@ -34,6 +34,7 @@ import time
 print(time.time())  # 1736611200.5071821
 # Монотонное время (для таймаутов)
 start = time.monotonic()
+print(start)
 ```
 
 # Задержки выполнения
@@ -206,10 +207,32 @@ ms = int(time.time() * 1000)
 ms_precise = int(time.perf_counter() * 1000)
 ```
 
-## Сравнение подходов к измерению
+# Сравнение подходов к измерению
 
 |Метод|Точность|Устойчивость к скачкам времени|Учёт sleep|
 |---|---|---|---|
 |`time()`|~1 сек|❌ Нет|✅ Да|
 |`perf_counter()`|Наносекунды|✅ Да (monotonic)|✅ Да|
-|`monotonic()`|
+|`monotonic()`|Наносекунды|✅ Да|✅ Да|
+|`process_time()`|Наносекунды|✅ Да|❌ Нет|
+
+# Чек-лист выбора функции
+
+|Задача|Функция|Почему|
+|---|---|---|
+|Логирование событий|`time.time()`|Стандартный timestamp|
+|Таймауты/таймеры|`time.monotonic()`|Не подвержен скачкам системного времени|
+|Бенчмарк кода|`time.perf_counter()`|Наивысшее разрешение|
+|Профилирование CPU|`time.process_time()`|Без учёта ожидания I/O|
+|Парсинг строки даты|`time.strptime()`|Гибкое форматирование|
+|Форматирование вывода|`time.strftime()`|Читаемые даты|
+|Задержка выполнения|`time.sleep()`|Простая пауза|
+|Кроссплатформенные ns|`time_ns()`, `perf_counter_ns()`|Целочисленная арифметика|
+
+---
+
+# Ссылки:
+
+[Форматирование и измерение времени](https://diveintopython.org/ru/learn/date/time)
+[Методы time и struct_time](https://pythonru.com/osnovy/modul-time-v-python)
+[Сравнение time и datetime](https://python-school.ru/blog/python/dates-and-time-in-python/)
