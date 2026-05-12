@@ -6,6 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 46.56538969616909,
         "children": [
           {
             "id": "7a27a1771718c295",
@@ -20,23 +21,29 @@
               "icon": "lucide-file",
               "title": "Словарь, {dict}"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "958df59a00909d00",
+        "type": "tabs",
+        "dimension": 53.43461030383091,
+        "children": [
           {
-            "id": "85c3adcb9bfc7376",
+            "id": "3abe215e8a4cd7a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "SHUTIL.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "SHUTIL"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,10 +276,10 @@
       "translate:Open translation view": false
     }
   },
-  "active": "85c3adcb9bfc7376",
+  "active": "3abe215e8a4cd7a4",
   "lastOpenFiles": [
-    "SHUTIL.md",
     "Словарь, {dict}.md",
+    "SHUTIL.md",
     "home/homepage.md",
     "TIME.md",
     "Файловая система.md",
