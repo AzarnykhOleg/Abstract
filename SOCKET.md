@@ -6,6 +6,12 @@ tags:
 authors:
 Abstract:
 ---
+<<<<<<<
+
+=======
+[Документация](https://docs.python.org/3/library/socket.html)
+[Руководство по программированию сокетов на Python](https://habr.com/ru/companies/skillfactory/articles/690186/)
+>>>>>>>
 
 > socket — встроенная библиотека Python для низкоуровневого сетевого программирования, предоставляющая интерфейс к системным сокетам BSD (Berkeley Software Distribution). 
 > 
