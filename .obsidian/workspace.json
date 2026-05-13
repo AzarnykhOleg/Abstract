@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
+                "file": "LOGGING.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "LOGGING"
             }
           }
         ]
@@ -223,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 476.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
