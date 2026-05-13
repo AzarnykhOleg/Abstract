@@ -40,12 +40,8 @@ Formatter (как писать: timestamp, уровень, сообщение)
 |**CRITICAL**|50|Серьёзная ошибка, программа может не работать дальше|**_logger.critical()_**|
 
 > Уровень по умолчанию — **WARNING**. Сообщения ниже установленного уровня игнорируются
-> 
-> <a href="https://docs.python.org/uk/3.15/howto/logging.html">docs.python.org</a>
-> 
-> .
 
-## Быстрый старт: basicConfig
+# Быстрый старт: basicConfig
 
 _**logging.basicConfig(**kwargs)**_ — быстрая настройка корневого логгера (root). Должен вызываться до первого лог-сообщения
 
