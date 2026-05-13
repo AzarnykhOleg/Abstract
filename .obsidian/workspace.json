@@ -223,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 476.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,6 +256,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Текстовый документ.txt",
     "LOGGING.md",
     "home/homepage.md",
     "OS.md",
@@ -286,7 +288,6 @@
     "files/1.jpg",
     "files/sockets.jpeg",
     "files/tasks_requests.py",
-    "Регулярные выражения.md",
     "Без названия",
     "_attachments/Простые типы данных/image-8-x56-y97.png",
     "_attachments/Простые типы данных/image-24-x55-y220.png",
