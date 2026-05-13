@@ -15,7 +15,7 @@
               "state": {
                 "file": "home/homepage.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "homepage"
@@ -219,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",

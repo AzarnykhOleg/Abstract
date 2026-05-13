@@ -1,8 +1,5 @@
 ---
 banner: "![[1.jpg]]"
----
----
-banner: "![[1.jpg]]"
 cssclasses:
   - dashboard
 banner_y: 0.191
