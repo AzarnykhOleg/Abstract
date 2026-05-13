@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "1a876f67ed774d16",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "39e6e735ff659c71",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "SOCKET.md",
-                "bFile": "SOCKET.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "SOCKET.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: SOCKET  (Index)"
+              "icon": "lucide-file",
+              "title": "SOCKET"
             }
           }
         ]
@@ -224,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 476.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,7 +254,7 @@
       "translate:Open translation view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "39e6e735ff659c71",
   "lastOpenFiles": [
     "home/homepage.md",
     "Текстовый документ.txt",
