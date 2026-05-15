@@ -130,7 +130,7 @@ logging.error('Произошла ошибка')
 
 ## Объект логгера
 
-***<span style="color: green">logger = logging.getLogger(**name**)</span>***  — создает или получает логгер с именем текущего модуля.
+***<span style="color: green">logger = logging.getLogger(name)</span>***  — создает или получает логгер с именем текущего модуля.
 
 ***<span style="color: green">logger.info(…)</span>***  — отправка сообщения через конкретный логгер.
 
