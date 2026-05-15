@@ -47,8 +47,6 @@ _**logging.basicConfig(**kwargs)**_ — быстрая настройка кор
 
 <a href="https://thecode.media/python-logger">thecode.media</a>
 
-.
-
 ```python
 import logging
 # Настройка вывода в файл с указанием уровня и формата

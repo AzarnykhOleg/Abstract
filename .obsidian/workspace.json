@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "LOGGING"
             }
+          },
+          {
+            "id": "32603ee41309dcae",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://thecode.media/python-logger/",
+                "title": "Как быстро добавить логгер в проект на Python — Журнал «Код» программирование без снобизма",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Как быстро добавить логгер в проект на Python — Журнал «Код» программирование без снобизма"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -269,12 +283,12 @@
       "translate:Open translation view": false
     }
   },
-  "active": "9f0f44112d21ec68",
+  "active": "32603ee41309dcae",
   "lastOpenFiles": [
+    "LOGGING.md",
     "home/homepage.md",
     "README.md",
     "README (2).md",
-    "LOGGING.md",
     "conflict-files-obsidian-git.md",
     "templates/ZOTERO.md",
     "templates/ZOTERO (2).md",
