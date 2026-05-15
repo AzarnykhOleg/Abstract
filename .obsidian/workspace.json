@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "156ebe94e26ab904",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "3ac49b423cd5225e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/translate/data.json",
-                "bFile": ".obsidian/plugins/translate/data.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json  (Index)"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -253,8 +252,9 @@
       "translate:Open translation view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "53add0a7fe06c36c",
   "lastOpenFiles": [
+    "README.md",
     "LOGGING.md",
     "conflict-files-obsidian-git.md",
     "home/homepage.md",
@@ -280,7 +280,6 @@
     "QUEUE.md",
     "Циклы.md",
     "CSV.md",
-    "Основы Python (PEP-8 и PEP-257).md",
     "_attachments/Основы Python",
     "zotero_books",
     "projects",
