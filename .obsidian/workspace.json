@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ac49b423cd5225e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "9f0f44112d21ec68",
             "type": "leaf",
             "state": {
@@ -29,28 +15,27 @@
               "state": {
                 "file": "LOGGING.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "LOGGING"
             }
           },
           {
-            "id": "32603ee41309dcae",
+            "id": "4820cda16cdbeee4",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://thecode.media/python-logger/",
-                "title": "Как быстро добавить логгер в проект на Python — Журнал «Код» программирование без снобизма",
-                "mode": "webview"
+                "file": "Словарь, {dict}.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "globe-2",
-              "title": "Как быстро добавить логгер в проект на Python — Журнал «Код» программирование без снобизма"
+              "icon": "lucide-file",
+              "title": "Словарь, {dict}"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -285,6 +270,7 @@
   },
   "active": "9f0f44112d21ec68",
   "lastOpenFiles": [
+    "Словарь, {dict}.md",
     "LOGGING.md",
     "home/homepage.md",
     "README.md",
@@ -302,7 +288,6 @@
     "JSON.md",
     "Создание функций.md",
     "Классы bytes и bytearray.md",
-    "Словарь, {dict}.md",
     "Модуль sys.md",
     "Файловая система.md",
     "Модуль random.md",
