@@ -81,8 +81,6 @@ logging.warning('Предупреждение')
 
 <a href="https://docs.python.org/uk/3/library/logging.html">docs.python.org</a>
 
-.
-
 ```python
 # В каждом модуле создаём логгер с именем модуля
 logger = logging.getLogger(__name__)
@@ -94,8 +92,6 @@ logger.info('Сообщение от модуля')
 > Использование `__name__` позволяет строить иерархию логгеров по структуре пакетов. Дочерние логгеры наследуют настройки родителей, если не имеют собственных handlers
 > 
 > <a href="https://habr.com/ru/articles/899244">habr.com</a>
-> 
-> .
 
 ## Обработчики (Handlers)
 
@@ -103,14 +99,14 @@ logger.info('Сообщение от модуля')
 
 ### Встроенные обработчики
 
-|Класс|Назначение|Импорт|
-|---|---|---|
-|**_StreamHandler_**|Вывод в поток (stderr/stdout по умолчанию)|`logging.StreamHandler()`|
-|**_FileHandler_**|Запись в файл|`logging.FileHandler(filename)`|
-|**_RotatingFileHandler_**|Ротация по размеру файла|`logging.handlers.RotatingFileHandler`|
-|**_TimedRotatingFileHandler_**|Ротация по времени (ежедневно/ежечасно)|`logging.handlers.TimedRotatingFileHandler`|
-|**_SMTPHandler_**|Отправка по email|`logging.handlers.SMTPHandler`|
-|**_QueueHandler_**|Асинхронная запись через очередь (неблокирующая)<br><br><a href="https://habr.com/ru/articles/899244">habr.com</a>|`logging.handlers.QueueHandler`|
+| Класс                          | Назначение                                                                                                     | Импорт                                      |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| **_StreamHandler_**            | Вывод в поток (stderr/stdout по умолчанию)                                                                     | `logging.StreamHandler()`                   |
+| **_FileHandler_**              | Запись в файл                                                                                                  | `logging.FileHandler(filename)`             |
+| **_RotatingFileHandler_**      | Ротация по размеру файла                                                                                       | `logging.handlers.RotatingFileHandler`      |
+| **_TimedRotatingFileHandler_** | Ротация по времени (ежедневно/ежечасно)                                                                        | `logging.handlers.TimedRotatingFileHandler` |
+| **_SMTPHandler_**              | Отправка по email                                                                                              | `logging.handlers.SMTPHandler`              |
+| **_QueueHandler_**             | Асинхронная запись через очередь (неблокирующая)<br><a href="https://habr.com/ru/articles/899244">habr.com</a> | `logging.handlers.QueueHandler`             |
 
 ```python
 import logging

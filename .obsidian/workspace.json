@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,7 +252,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 476.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,7 +283,7 @@
       "translate:Open translation view": false
     }
   },
-  "active": "32603ee41309dcae",
+  "active": "9f0f44112d21ec68",
   "lastOpenFiles": [
     "LOGGING.md",
     "home/homepage.md",
