@@ -45,6 +45,7 @@ banner_y: 0.191
 	- [Модули. import](../Модули.%20import.md)
 	- [Свои и встроенные модули](../Свои%20и%20встроенные%20модули.md)
 - #### Модули L-R
+	- [APScheduler](../APScheduler.md)
 	- [LOGGING](../LOGGING.md)
 	- [OS](../OS.md)
 	- [PATHLIB](../PATHLIB.md)
@@ -52,6 +53,7 @@ banner_y: 0.191
 	- [RANDOM](../Модуль%20random.md)
 	- [REQUESTS](../REQUESTS.md)
 - #### Модули S-T
+	- [SCHEDULE](../SCHEDULE.md)
 	- [SHUTIL](../SHUTIL.md)
 	- [SOCKET](../SOCKET.md)
 	- [SUBPROCESS](../SUBPROCESS.md)
