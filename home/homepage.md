@@ -44,8 +44,10 @@ banner_y: 0.191
 - #### Модули
 	- [Модули. import](../Модули.%20import.md)
 	- [Свои и встроенные модули](../Свои%20и%20встроенные%20модули.md)
-- #### Модули L-R
+- #### Модули A-K
 	- [APScheduler](../APScheduler.md)
+	- [ARGPARSE](../ARGPARSE.md)
+- #### Модули L-R
 	- [LOGGING](../LOGGING.md)
 	- [OS](../OS.md)
 	- [PATHLIB](../PATHLIB.md)
