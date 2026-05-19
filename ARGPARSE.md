@@ -4,17 +4,17 @@ tags: python
 authors: AzOV
 Abstract:
 ---
-> **argparse** — встроенный модуль Python для создания интерфейсов командной строки (CLI). Позволяет парсить аргументы, передаваемые скрипту при запуске.
+> ***<span style="color: green">argparse</span>*** — встроенный модуль Python для создания интерфейсов командной строки (CLI). Позволяет парсить аргументы, передаваемые скрипту при запуске.
 
 # Базовый шаблон использования
 
-1. Импортировать модуль: `import argparse`.
+1. Импортировать модуль: ***<span style="color: green">import argparse</span>***.
     
-2. Создать парсер: `parser = argparse.ArgumentParser(…)`.
+2. Создать парсер: ***<span style="color: green">parser = argparse.ArgumentParser(…)</span>***.
     
-3. Добавить аргументы: `parser.add_argument(…)`.
+3. Добавить аргументы: ***<span style="color: green">parser.add_argument(…)</span>***.
     
-4. Парсить аргументы: `args = parser.parse_args()`.
+4. Парсить аргументы: ***<span style="color: green">args = parser.parse_args()</span>***.
     
 5. Использовать полученные значения в коде.
     
@@ -23,13 +23,13 @@ Abstract:
 
 # Ключевые функции и методы
 
-**1. `ArgumentParser()`** — создаёт объект парсера.
+###  ***<span style="color: green">ArgumentParser()</span>*** — создаёт объект парсера.
 
 _Основные параметры:_
 
-- `description` — краткое описание программы (выводится в справке `--help`).
+- ***<span style="color: green">description</span>*** — краткое описание программы (выводится в справке `--help`).
     
-- `epilog` — текст, который выводится после списка аргументов (в справке).
+- ***<span style="color: green">epilog</span>*** — текст, который выводится после списка аргументов (в справке).
     
 ```python
 parser = argparse.ArgumentParser(
@@ -38,30 +38,28 @@ parser = argparse.ArgumentParser(
 )
 ```
 
-**2. `add_argument()`** — добавляет аргумент в парсер.
+### ***<span style="color: green">add_argument()</span>*** — добавляет аргумент в парсер.
 
 _Ключевые параметры:_
 
-- `name` или `flags` — имя или флаги аргумента (например, `'--input'`, `'-i'`).
+- ***<span style="color: green">name</span>*** или ***<span style="color: green">flags</span>*** — имя или флаги аргумента (например, `'--input'`, `'-i'`).
     
-- `help` — описание аргумента (выводится в справке).
+- ***<span style="color: green">help</span>*** — описание аргумента (выводится в справке).
     
-- `type` — тип данных (например, `int`, `str`, `float`).
+- ***<span style="color: green">type</span>*** — тип данных (например, `int`, `str`, `float`).
     
-- `default` — значение по умолчанию.
+- ***<span style="color: green">default</span>*** — значение по умолчанию.
     
-- `required` — обязателен ли аргумент (`True`/`False`).
+- ***<span style="color: green">required</span>*** — обязателен ли аргумент (`True`/`False`).
     
-- `choices` — допустимые значения (список).
+- ***<span style="color: green">choices</span>*** — допустимые значения (список).
     
-- `action` — действие при наличии аргумента (например, `'store_true'`, `'count'`).
+- ***<span style="color: green">action</span>*** — действие при наличии аргумента (например, `'store_true'`, `'count'`).
     
 
 Примеры:
 
 _Позиционный аргумент:_
-
-python
 
 ```python
 parser.add_argument('filename', help='Имя обрабатываемого файла')
@@ -69,15 +67,11 @@ parser.add_argument('filename', help='Имя обрабатываемого фа
 
 _Опциональный аргумент с типом:_
 
-python
-
 ```python
 parser.add_argument('--count', type=int, default=1, help='Количество повторений')
 ```
 
 _Булевый флаг:_
-
-python
 
 ```python
 parser.add_argument('--verbose', action='store_true', help='Включить подробный вывод')
@@ -85,17 +79,13 @@ parser.add_argument('--verbose', action='store_true', help='Включить п�
 
 _Аргумент с выбором значений:_
 
-python
-
 ```python
 parser.add_argument('--mode', choices=['fast', 'slow'], default='fast', help='Режим работы')
 ```
 
-**3. `parse_args()`** — парсит аргументы командной строки и возвращает объект с атрибутами.
+### ***<span style="color: green">parse_args()</span>*** — парсит аргументы командной строки и возвращает объект с атрибутами.
 
 Пример:
-
-python
 
 ```python
 args = parser.parse_args()
@@ -103,11 +93,9 @@ print(f"Файл: {args.filename}")
 print(f"Количество: {args.count}")
 ```
 
-**4. `add_subparsers()`** — позволяет создавать подкоманды (subcommands), как в `git commit`, `git push`.
+### ***<span style="color: green">add_subparsers()</span>*** — позволяет создавать подкоманды (subcommands), как в `git commit`, `git push`.
 
 Пример:
-
-python
 
 ```python
 subparsers = parser.add_subparsers(dest='command', help='Доступные команды')
@@ -126,8 +114,6 @@ delete_parser.add_argument('name', help='Имя файла')
 # Примеры использования
 
 **Пример 1: Простой скрипт с позиционным и опциональным аргументами**
-
-python
 
 ```python
 import argparse
@@ -149,16 +135,12 @@ print(f"Результат: {result}")
 
 Запуск:
 
-bash
-
 ```bash
 python calc.py 5 3 --operation add  # Результат: 8.0
 python calc.py 5 3                   # Результат: 8.0 (по умолчанию)
 ```
 
 **Пример 2: Скрипт с подкомандами**
-
-python
 
 ```python
 import argparse
@@ -185,8 +167,6 @@ elif args.command == 'copy':
 
 Запуск:
 
-bash
-
 ```bash
 python file_manager.py list --path /home  # Список файлов в /home
 python file_manager.py copy file1.txt file2.txt  # Копируем file1.txt в file2.txt
@@ -209,11 +189,11 @@ python file_manager.py copy file1.txt file2.txt  # Копируем file1.txt в
 
 ---
 
-# Краткий справочник (шпаргалка)
+# Краткий справочник
 
 | Функция/Метод          | Назначение                    | Пример                                                       |
 | ---------------------- | ----------------------------- | ------------------------------------------------------------ |
-| **`ArgumentParser()`** | Создаёт парсер                | `parser = argparse.ArgumentParser(description="Мой скрипт")` |
-| **`add_argument()`**   | Добавляет аргумент            | `parser.add_argument('--name', help='Ваше имя')`             |
-| **`parse_args()`**     | Парсит аргументы              | `args = parser.parse_args()`                                 |
-| **`add_subparsers()`** | Добавляет поддержку подкоманд | `subparsers = parser.add_subparsers(dest='cmd')`             |
+| ***<span style="color: green">ArgumentParser()</span>*** | Создаёт парсер                | `parser = argparse.ArgumentParser(description="Мой скрипт")` |
+| ***<span style="color: green">add_argument()</span>***   | Добавляет аргумент            | `parser.add_argument('--name', help='Ваше имя')`             |
+| ***<span style="color: green">parse_args()</span>***     | Парсит аргументы              | `args = parser.parse_args()`                                 |
+| ***<span style="color: green">add_subparsers()</span>*** | Добавляет поддержку подкоманд | `subparsers = parser.add_subparsers(dest='cmd')`             |
