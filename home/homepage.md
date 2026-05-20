@@ -53,6 +53,7 @@ banner_y: 0.191
 	- [PATHLIB](../PATHLIB.md)
 	- [QUEUE](../QUEUE.md)
 	- [RANDOM](../Модуль%20random.md)
+	- [RE](../RE.md)
 	- [REQUESTS](../REQUESTS.md)
 - #### Модули S-T
 	- [SCHEDULE](../SCHEDULE.md)
