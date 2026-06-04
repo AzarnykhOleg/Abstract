@@ -1,6 +1,6 @@
 ---
 date: 03.06.2025
-tags: networks
+tags: network
 authors: AzOV
 Abstract:
 ---
