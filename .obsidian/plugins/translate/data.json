@@ -75,7 +75,9 @@
       "version": "1.0.0"
     },
     "google_translate": {
-      "selected_languages": [],
+      "selected_languages": [
+        "ru"
+      ],
       "api_key": "",
       "auto_translate": true,
       "auto_translate_interval": 500,
